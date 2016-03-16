@@ -3,6 +3,11 @@ Repository du concours de programmation , sujet de TER
 
 # - Traitement des entrées avec R
 
+Pour lire la ligne L de l'entrée standard:
+```R
+flux=file("stdin","r")
+suite=scan(file=flux, what=integer(), nline=L)
+```
 
 # - Exercice du 42
 Il s'agit de detecter le nombre 42 dans une suite de nombre passée dans l'entrée standard (stdin) , l'idée est que lors de l'itération on affiche le nombre lu tant que 42 n'a pas été lu , si il a été lu alors on l'affiche jusqu'à la derniere iteration.
