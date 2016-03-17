@@ -20,8 +20,19 @@ output  -> 1 2 3 4 5 6 42 42 42 42 42 42
 1) Ecrire sur feuille le resultat donné avec cette suite de nombre donnée: 1 2 8 41 20 42 1 9 5 3
 
 2) Ecrire un programme en R resolvant le probleme donné
-Pour recuperer la suite de nombre , vous devez reprendre le code INPUT-A1 avec ```R nline=1```
-A chaque iteration vous devez afficher sur la sortie standard (print) le nombre à afficher
+Pour recuperer la suite de nombre , vous devez reprendre le code INPUT-A1 avec
+```R
+nline=1
+```
+A chaque iteration vous devez afficher sur la sortie standard (print) le nombre à afficher.
+```R
+while (length(suiteNombre) >= i)
+{
+...
+print(suiteNombre[i]); # exemple
+...
+}
+```
 
 3) Plus dur , à present on souhaite afficher 42 lorsque la somme des 3 derniers elements lus fait 42.
 Exemple:
