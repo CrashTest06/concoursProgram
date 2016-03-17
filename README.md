@@ -7,8 +7,13 @@ Repository du concours de programmation , sujet de TER
 Pour lire la ligne L de l'entrée standard:
 ```R
 flux=file("stdin","r")
-suiteNombre=scan(file=flux, what=integer(), nline=L)
+suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 ```
+Veillez à bien utiliser l'option suivante:
+```R
+quiet=TRUE
+```
+Si vous ne l'utiliser pas, votre fichier de sortie sera faussé, en effet sans cette option, votre fichier de sortie contiendra sur la première ligne, le nombre d'éléments que la commande scan à lu, chose qui n'est pas souhaité.
 
 # - Exercice du 42
 Il s'agit de detecter le nombre 42 dans une suite de nombre passée dans l'entrée standard (stdin) , l'idée est que lors de l'itération on affiche le nombre lu tant que 42 n'a pas été lu , si il a été lu alors on l'affiche jusqu'à la derniere iteration.
