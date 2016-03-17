@@ -7,7 +7,7 @@ Repository du concours de programmation , sujet de TER
 Pour lire la ligne L de l'entrée standard:
 ```R
 flux=file("stdin","r")
-suite=scan(file=flux, what=integer(), nline=L)
+suiteNombre=scan(file=flux, what=integer(), nline=L)
 ```
 
 # - Exercice du 42
