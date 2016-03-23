@@ -52,8 +52,11 @@ Réaliser le produit de deux tableaux passés dans l'entrée standard, de la man
 # Exercice Epluchage
 
   Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
-  Exemple:  input  -> 111112229 \n
-            output -> 531
+  Exemple:
+  
+  input  -> 111112229
+  
+  output -> 531
             
   1) Ecrire sur une feuille le resultat pour n = 685415111
   
