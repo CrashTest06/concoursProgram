@@ -99,8 +99,10 @@ print(tableau_resultat);
     
     1) Ecrire sur une feuille si la liste: est permutation de la liste:
     
-    2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2 <br/> et qui verifie si une liste l1 est la liste renversée l2.
+    2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
+    <br/> et qui verifie si une liste l1 est la liste renversée l2.
     
-    3) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2 <br/> et qui verifie si une liste l1 est la permutation inverse de la liste l2
+    3) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
+    <br/> et qui verifie si une liste l1 est la permutation inverse de la liste l2
 
 <br/>
