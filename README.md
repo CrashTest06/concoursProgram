@@ -69,7 +69,7 @@ print(tableau_resultat);
 ```
 
 
-1) Faire sur feuille , le produit des deux tableaux suivants:
++ 1) Faire sur feuille , le produit des deux tableaux suivants:
 <br/><br/>
 ![Alt text](/exempleExo1MuxArray.PNG)
 Envoyer un code R faisant un print du resultat en vous basant sur cet exemple:
@@ -78,9 +78,9 @@ print("4 6 12 36 78 28");
 ```
 
 
-2) Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
++ 2) Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
 
-3) Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les elements pairs du tableau TableauRes.
++ 3) Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les elements pairs du tableau TableauRes.
 
 # - Exercice Epluchage
 
