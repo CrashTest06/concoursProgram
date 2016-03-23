@@ -46,15 +46,19 @@ output  -> 1 3 5 7 1 1 42 42 42
 
 # Exercice MuxArray
 
-Réaliser le produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
+Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
 ![Alt text](/exemple2MuxArray.PNG)
+
+Vous afficherez le tableau contenant le resultat de la maniere suivante : 
+```R
+print(tableau_resultat);
+```
 
 # Exercice Epluchage
 
   Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
-  Exemple:
-  input  -> 111112229
-  output -> 531
+  Exemple:  input  -> 111112229 \n
+            output -> 531
             
   1) Ecrire sur une feuille le resultat pour n = 685415111
   
