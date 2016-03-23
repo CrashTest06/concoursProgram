@@ -3,8 +3,7 @@ Repository du concours de programmation , sujet de TER
 
 # - Traitement des entrées avec R
 
-
-<section> <font color = "red"> (INPUT-A1) </font> Pour lire la ligne L de l'entrée standard: </section>
+<section>(INPUT-A1) Pour lire la ligne L de l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
@@ -12,11 +11,7 @@ suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 
 
 
-<section>
-<font color = "blue">
-(INPUT-A2) 
-</font>
-Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
+<section> (INPUT-A2) Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
@@ -41,7 +36,7 @@ output  -> 1 2 3 4 5 6 42 42 42 42 42 42
 1) Ecrire sur feuille le resultat donné avec cette suite de nombre donnée: 1 2 8 41 20 42 1 9 5 3
 
 2) Ecrire un programme en R resolvant le probleme donné
-Pour recuperer la suite de nombre , vous devez reprendre le code <font color='red'> INPUT-A1 </font> avec
+Pour recuperer la suite de nombre , vous devez reprendre le code INPUT-A1 avec
 ```R
 nline=1
 ```
@@ -65,7 +60,7 @@ output  -> 1 3 5 7 1 1 42 42 42
 Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
 ![Alt text](/exemple2MuxArray.PNG)
 
-Employer le code <font color='blue'> INPUT-A2 </font> pour recuperer les deux tableaux.
+Employer le code INPUT-A2 pour recuperer les deux tableaux.
 
 Vous afficherez le tableau contenant le resultat de la maniere suivante : 
 ```R
@@ -95,9 +90,9 @@ print("4 6 12 36 78 28");
             
   1) Ecrire sur une feuille le resultat pour n = 685415111
   
-  2) Ecrire le code R qui renvoie le tableau d'occurences des chiffres d'un nombre récupérer en entré grâce au code <font color = 'red'> INPUT-A1 </font>.
+  2) Ecrire le code R qui renvoie le tableau d'occurences des chiffres d'un nombre récupérer en entré grâce au code INPUT-A1 .
   
-  3) Ecrire le code R qui renvoie le nombre créé à l'aide du nombre d'occurences des chiffres d'un nombre récupérer grâce au code <font color = 'red'> INPUT-A1 </font>.
+  3) Ecrire le code R qui renvoie le nombre créé à l'aide du nombre d'occurences des chiffres d'un nombre récupérer grâce au code INPUT-A1.
   
   
 # - Exercice Permutation
@@ -111,10 +106,10 @@ print("4 6 12 36 78 28");
     1) Ecrire sur une feuille si la liste: 3 8 5 10 9 4 6 1 7 2 
     est permutation de la liste: 8 10 1 6 3 2 9 7 5 4
     
-    2) Ecrire un code R qui recupere deux listes en entrée grâce au code  <font color = 'blue'> INPUT-A2 </font>
+    2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
     et qui verifie si une liste l1 est la liste renversée l2.
     
-    3) Ecrire un code R qui recupere deux listes en entrée grâce au code <font color = 'blue'> INPUT-A2 </font>
+    3) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
      et qui verifie si une liste l1 est la permutation inverse de la liste l2
 
 <br/>
@@ -130,8 +125,8 @@ print("4 6 12 36 78 28");
     1) Ecrire sur une feuille le calcul de la moyennes pondérées des notes : 18 18 12 11 7
     avec leur coefficients respectives : 6 2 4 4 1
     
-    2) Ecrire un code R qui recupere une liste de notes en entrée grâce au code  <font color = 'red'> INPUT-A1 </font>
+    2) Ecrire un code R qui recupere une liste de notes en entrée grâce au code  INPUT-A1
     et calcule sa moyenne non pondérées.
     
     3) Ecrire un code R qui recupere une liste de notes et une liste de coefficients en entrée 
-    grâce au code  <font color = 'blue' INPUT-A2 </font> et calcule sa moyenne pondérées.
+    grâce au code INPUT-A2et calcule sa moyenne pondérées.
