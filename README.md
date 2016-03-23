@@ -59,6 +59,8 @@ output  -> 1 3 5 7 1 1 42 42 42
 # - Exercice MuxArray
 
 Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
+![Alt text](/exemple2MuxArray.PNG)
+
 Employer le code INPUT-A2 pour recuperer les deux tableaux.
 
 Vous afficherez le tableau contenant le resultat de la maniere suivante : 
@@ -66,7 +68,6 @@ Vous afficherez le tableau contenant le resultat de la maniere suivante :
 print(tableau_resultat);
 ```
 
-![Alt text](/exemple2MuxArray.PNG)
 
 
 
