@@ -9,6 +9,17 @@ Pour lire la ligne L de l'entrée standard:
 flux=file("stdin","r")
 suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 ```
+
+(INPUT-A2)
+Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard:
+```R
+flux=file("stdin","r")
+tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+tableau2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
+```
+
+
+
 Veillez à bien utiliser l'option suivante:
 ```R
 quiet=TRUE
@@ -56,9 +67,9 @@ print(tableau_resultat);
 
 # Exercice Epluchage
 
-  Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.<br/>
-  Exemple: <br/> input  -> 111112229<br/>
-            output -> 531<br/>
+  Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
+  Exemple:  input  -> 111112229 \n
+            output -> 531
             
   1) Ecrire sur une feuille le resultat pour n = 685415111
   
