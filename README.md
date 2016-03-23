@@ -69,8 +69,8 @@ print(tableau_resultat);
 
   Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
     <br/> &nbsp;&nbsp;&nbsp; Exemple:
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 111112229 
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output -> 531
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 111112229 
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 531
             
   1) Ecrire sur une feuille le resultat pour n = 685415111
   
