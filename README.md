@@ -77,6 +77,11 @@ Envoyer un code R faisant un print du resultat en vous basant sur cet exemple:
 print("4 6 12 36 78 28");
 ```
 
+
+2) Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
+
+3) Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les elements pairs du tableau TableauRes.
+
 # - Exercice Epluchage
 
   Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
