@@ -47,4 +47,4 @@ output  -> 1 3 5 7 1 1 42 42 42
 # Exercice MuxArray
 
 Réaliser le produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
-!GitHub Logo] (concoursProgram/exempleMuxArray.PNG)
+![Alt text](/exempleMuxArray.PNG)
