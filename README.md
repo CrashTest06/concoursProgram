@@ -114,3 +114,12 @@ print(tableau_resultat);
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 8 12 10 10 10
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  4 3 1 1 1
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 9.8
+       
+    1) Ecrire sur une feuille le calcul de la moyennes pondérées des notes : 18 18 12 11 7
+    avec leur coefficients respectives : 6 2 4 4 1
+    
+    2) Ecrire un code R qui recupere une liste de notes en entrée grâce au code INPUT-A1
+    et calcule sa moyenne non pondérées.
+    
+    3) Ecrire un code R qui recupere une liste de notes et une liste de coefficientss en entrée grâce au code INPUT-A2
+    et calcule sa moyenne pondérées.
