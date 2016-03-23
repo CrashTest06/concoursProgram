@@ -59,6 +59,7 @@ output  -> 1 3 5 7 1 1 42 42 42
 # - Exercice MuxArray
 
 Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
+Employer le code INPUT-A2 pour recuperer les deux tableaux.
 
 Vous afficherez le tableau contenant le resultat de la maniere suivante : 
 ```R
@@ -73,24 +74,24 @@ print(tableau_resultat);
 <br/><br/>
 ![Alt text](/exempleExo1MuxArray.PNG)
 
+# - Exercice Epluchage
+
+  Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
+    <br/> &nbsp;&nbsp;&nbsp; Exemple:
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 111112229 
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 531
+            
+  1) Ecrire sur une feuille le resultat pour n = 685415111
+  
+  2) Ecrire le code R qui renvoie le tableau d'occurences des chiffres d'un nombre récupérer en entré grâce au code INPUT-A1.
+  
+  3) Ecrire le code R qui renvoie le nombre créé à l'aide du nombre d'occurences des chiffres d'un nombre récupérer grâce au code INPUT-A1.
+  
+  
 # - Exercice Permutation
 
   Verifier si une suite de nombre est une permutation inverse d'une autre liste
     <br/> &nbsp;&nbsp;&nbsp; Exemple:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 2 3 4 5 1
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  5 1 2 3 4
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> TRUE
-    
-    1) Ecrire sur une feuille si la liste: est permutation de la liste:
-    
-    2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2 et qui verifie si une liste l1 est la liste renversée l2.
-    
-    3) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2  et qui verifie si une liste l1 est la permutation inverse de la liste l2
-
-# - Exercice Moyenne Pondérée
-
-  Verifier si une suite de nombre est une permutation inverse d'une autre liste
-    <br/> &nbsp;&nbsp;&nbsp; Exemple:
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 8 12 10 10 10
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  4 3 1 1 1
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 9.8
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 1 2 3 4
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; output -> 531
