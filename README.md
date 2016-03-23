@@ -68,7 +68,8 @@ print(tableau_resultat);
 # Exercice Epluchage
 
   Le but est de compter le nombre d'occurences des chiffres qui apparaissent dans un nombre n et d'en faire un nouveau nombre.
-    + Exemple:  input  -> 111112229 \n
+    <br/> 
+      + Exemple:  <br/> input  -> 111112229 <br/> 
             output -> 531
             
   1) Ecrire sur une feuille le resultat pour n = 685415111
