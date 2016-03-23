@@ -106,3 +106,11 @@ print(tableau_resultat);
      et qui verifie si une liste l1 est la permutation inverse de la liste l2
 
 <br/>
+
+# - Exercice Moyenne Pondérée
+
+  Calculer la moyenne pondéré à partir deux listes, celle des notes et celle des coefficients.
+  <br/> &nbsp;&nbsp;&nbsp; Exemple:
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 8 12 10 10 10
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  4 3 1 1 1
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 9.8
