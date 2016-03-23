@@ -121,5 +121,5 @@ print(tableau_resultat);
     2) Ecrire un code R qui recupere une liste de notes en entrée grâce au code INPUT-A1
     et calcule sa moyenne non pondérées.
     
-    3) Ecrire un code R qui recupere une liste de notes et une liste de coefficientss en entrée grâce au code INPUT-A2
-    et calcule sa moyenne pondérées.
+    3) Ecrire un code R qui recupere une liste de notes et une liste de coefficients en entrée 
+    grâce au code INPUT-A2 et calcule sa moyenne pondérées.
