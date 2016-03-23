@@ -3,22 +3,22 @@ Repository du concours de programmation , sujet de TER
 
 # - Traitement des entrées avec R
 
-<section> (INPUT-A1)
-Pour lire la ligne L de l'entrée standard:
+
+(INPUT-A1) Pour lire la ligne L de l'entrée standard:
 ```R
 flux=file("stdin","r")
 suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 ```
-</section>
 
-<section>(INPUT-A2)
-Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard:
+
+
+(INPUT-A2) Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard:
 ```R
 flux=file("stdin","r")
 tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
 tableau2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
 ```
-</section>
+
 
 
 Veillez à bien utiliser l'option suivante:
@@ -86,4 +86,4 @@ print(tableau_resultat);
     <br/> &nbsp;&nbsp;&nbsp; Exemple:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 2 3 4 5 1
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 1 2 3 4
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;output -> 531
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; output -> 531
