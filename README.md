@@ -4,7 +4,7 @@ Repository du concours de programmation , sujet de TER
 # - Traitement des entrées avec R
 
 
-(INPUT-A1) Pour lire la ligne L de l'entrée standard:
+<section> (INPUT-A1) Pour lire la ligne L de l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
@@ -12,7 +12,7 @@ suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 
 
 
-(INPUT-A2) Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard:
+<section> (INPUT-A2) Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
@@ -59,12 +59,19 @@ output  -> 1 3 5 7 1 1 42 42 42
 # - Exercice MuxArray
 
 Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
-![Alt text](/exemple2MuxArray.PNG)
 
 Vous afficherez le tableau contenant le resultat de la maniere suivante : 
 ```R
 print(tableau_resultat);
 ```
+
+![Alt text](/exemple2MuxArray.PNG)
+
+
+
+1) Faire sur feuille , le produit des deux tableaux suivants:
+<br/><br/>
+![Alt text](/exempleExo1MuxArray.PNG)
 
 # - Exercice Epluchage
 
@@ -85,13 +92,5 @@ print(tableau_resultat);
   Verifier si une suite de nombre est une permutation inverse d'une autre liste
     <br/> &nbsp;&nbsp;&nbsp; Exemple:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 2 3 4 5 1
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  5 1 2 3 4
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> TRUE
-
-# - Exercice Moyenne Pondérée
-
-  Verifier si une suite de nombre est une permutation inverse d'une autre liste
-    <br/> &nbsp;&nbsp;&nbsp; Exemple:
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 8 12 10 10 10
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  4 3 1 1 1
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 9.8
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 1 2 3 4
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; output -> 531
