@@ -97,7 +97,8 @@ print(tableau_resultat);
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  5 1 2 3 4
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> TRUE
     
-    1) Ecrire sur une feuille si la liste: est permutation de la liste:
+    1) Ecrire sur une feuille si la liste: 3 8 5 10 9 4 6 1 7 2 
+    est permutation de la liste: 8 10 1 6 3 7 9 2 5 4
     
     2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
     et qui verifie si une liste l1 est la liste renversée l2.
