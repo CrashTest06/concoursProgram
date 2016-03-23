@@ -47,7 +47,4 @@ output  -> 1 3 5 7 1 1 42 42 42
 # Exercice MuxArray
 
 Réaliser le produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
-TableauResultat[1] = T1[1] * T2[size(T2)]
-...\n 
-...\n
-TableauResultat[size(T1)] = T1[size(T1)] * T2[1]
+!GitHub Logo] (concoursProgram/exempleMuxArray.PNG)
