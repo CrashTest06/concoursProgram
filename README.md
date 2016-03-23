@@ -130,3 +130,25 @@ print("4 6 12 36 78 28");
     
     3) Ecrire un code R qui recupere une liste de notes et une liste de coefficients en entrée 
     grâce au code INPUT-A2et calcule sa moyenne pondérées.
+    
+    
+# - Exercice Découpage binaire
+
+  Déchriffer le message qui se cache cette suite de 0 et 1 ...
+  Vous serez informé de votre réussite selon le message que vous trouverez.
+  
+  Sur la première ligne du fichier vous trouverez le nombre de binaire à couper selon les nombres présents sur la deuxème ligne de ce même fichier.
+  
+  <br/> &nbsp;&nbsp;&nbsp; Exemple:
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  8 16 24 32
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> "GOOD"
+    
+  Il a ici fallut couper au 8ème élément inclus, ce qui fait une première lettre. Puis on coupe du 9ème élément au 16ème inclus, et ainsi de suite...
+  
+  1) Ecrire sur une feuille la représentation décimal du binaire que vous avez coupé au préalable.
+  
+  2) Ecrire un code R qui récupère les 2 lignes nécéssaires, qui coupe le binaire selon les entiers présent sur la deuxième ligne du fichier. Convertissez en décimal les plusieurs représentations binaires que vous avez découpé. Obtenez avec ces nombres décimaux le caractère ascii correspondant.
+    
+  
+  
