@@ -12,7 +12,11 @@ suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 
 
 
-<section>  <font color = "blue"> (INPUT-A2) </font> Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
+<section>
+<font color = "blue">
+(INPUT-A2) 
+</font>
+Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
