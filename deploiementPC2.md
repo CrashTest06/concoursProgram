@@ -2,17 +2,18 @@
 
 # - Partie Serveur
 
-Besoin d'une machine virtuelle pouvant executer du code python , Java et php.
+Necessite une machine virtuelle pouvant executer du code python , Java et php.
 Il nous faut egalement un compte mysql pour enregistrer les inscriptions des etudiants.
+Possible d'envoyer un nombre important de mails aux etudiants afin de les authentifier via leur code sesame ?
 <br/><br/>
 Le code Java est nécessaire pour lancer le serveur de PC2 ainsi que ses divers services.
 Le code PHP afin que les etudiants puissent s'inscrire au concours.
-Le code python pour envoyer un mail d'activation à l'etudiant afin qu'il valide son inscription.
+Le code python pour envoyer un mail à l'etudiant contenant un lien validant son inscription.
 
 # - Partie Client
 
 Deployer en local sur les machines un dossier contenant la partie client de PC2.
-ajouter dans le path l'emplacement du dossier.
+ajouter dans le path l'emplacement du dossier -> PC2HOME.
 
 Dans ce dossier se trouvera egalement un programme python verrouillé en ecriture qui mettra à jour les fichiers de conf
 qui contiendront l'adresse IP du serveur (de la VM).
