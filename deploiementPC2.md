@@ -34,8 +34,8 @@ Cette IP est récupérée sur un fichier texte hebergé dans un dossier WWW d'un
 
 + Recuperer et dezipper le meme zip pc2
 + Deposer le dossier pc2 en local sur les machines
-+ Ajouter dans le path le chemin du dossier bin de pc2
++ Ajouter une variable d'environnement PC2HOME pointant vers le chemin du dossier bin de pc2
 + Configurer le fichier pc2v9.ini en y inserant l'ip du serveur ``` server=ipServeur:numPort ``` 
 + Le fichier .ini doit etre deposé dans le dossier lib et bin
 + Dans le dossier pc2 , supprimer tout les dossier sauf bin et lib.
-+ Via le terminal , tapez pc2team , le client pc2 se lancera.
++ Via le terminal , tapez ``` cd $PC2HOME && pc2team ``` , le client pc2 se lancera.
