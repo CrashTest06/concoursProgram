@@ -20,9 +20,22 @@ qui contiendront l'adresse IP du serveur (de la VM).
 Cette IP est récupérée sur un fichier texte hebergé dans un dossier WWW d'un de nos compte unice.
 
 
-# - Installation de PC2
+# - Installation de PC2 sur serveur
 
-+ recuperer et dezipper le logiciel pc2 sur le site officiel http://pc2.ecs.csus.edu/
-+ deposer le dossier sur le serveur
-+ configurer le fichier pc2v9.ini du dossier en inserant l'ip du serveur ``` server=ipServeur:50002 ``` , vous pouvez egalement modifier 
-+ copier et coller ce meme fichier dans les dossiers 'bin' et 'lib' 
++ Récuperer et dezipper le zip pc2 sur le site officiel http://pc2.ecs.csus.edu/
++ Déposer le dossier sur le serveur
++ Configurer le fichier pc2v9.ini du dossier en inserant l'ip du serveur ``` server=ipServeur:numPort ``` , indiquer egalement le numero de port.
++ Copier et coller ce meme fichier dans les dossiers 'bin' et 'lib' 
++ Via le terminal , deplacez vous sur le dossier bin de pc2 et entrez ``` ./pc2server ``` , le serveur se lancera.
+
+# - Installation de PC2 sur le client
+
+/!\ java doit etre imperativement installé /!\
+
++ Recuperer et dezipper le meme zip pc2
++ Deposer le dossier pc2 en local sur les machines
++ Ajouter dans le path le chemin du dossier bin de pc2
++ Configurer le fichier pc2v9.ini en y inserant l'ip du serveur ``` server=ipServeur:numPort ``` 
++ Le fichier .ini doit etre deposé dans le dossier lib et bin
++ Dans le dossier pc2 , supprimer tout les dossier sauf bin et lib.
++ Via le terminal , tapez pc2team , le client pc2 se lancera.
