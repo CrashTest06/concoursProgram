@@ -18,3 +18,11 @@ ajouter dans le path l'emplacement du dossier -> PC2HOME.
 Dans ce dossier se trouvera egalement un programme python verrouillé en ecriture qui mettra à jour les fichiers de conf
 qui contiendront l'adresse IP du serveur (de la VM).
 Cette IP est récupérée sur un fichier texte hebergé dans un dossier WWW d'un de nos compte unice.
+
+
+# - Installation de PC2
+
++ recuperer et dezipper le logiciel pc2 sur le site officiel http://pc2.ecs.csus.edu/
++ deposer le dossier sur le serveur
++ configurer le fichier pc2v9.ini du dossier en inserant l'ip du serveur ``` server=ipServeur:50002 ``` , vous pouvez egalement modifier 
++ copier et coller ce meme fichier dans les dossiers 'bin' et 'lib' 
