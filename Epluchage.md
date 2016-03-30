@@ -16,6 +16,7 @@
  print("mon resultat") 
  ```
   2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée
+    <br/> &nbsp;&nbsp;&nbsp; Exemple:  
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 111112229 
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 531
   ```R
@@ -35,6 +36,7 @@
    print("mon resultat")
    ```
   3) Reprendre le code de la question 2, renvoyez M maintenant en comptant le nombre d'occurance du chiffre 0.
-     M doit etre construire cette ordre numérique 1,2,..,9,0.
+    <br/> M doit etre construire cette ordre numérique 1,2,..,9,0.
+    <br/> &nbsp;&nbsp;&nbsp; Exemple:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 1000111192229 
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 5323
