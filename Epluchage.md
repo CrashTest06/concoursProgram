@@ -11,12 +11,15 @@
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 21
             
   1) Envoyer le resultat pour n = 685415111
- <br/> ``` print("mon resultat") ```<br/>
+  ```R
+ print("mon resultat") 
+ ```
   2) Ecrire le code R qui renvoie le tableau d'occurences des chiffres d'un nombre récupérer en entré grâce au code INPUT-A1 .
   <br/>
-  ``` #### Recuperation de l'entrée
-  <br/> flux=file("stdin","r")
-  <br/>suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)``` 
-  
-  <br/> ``` print("mon resultat") ```<br/>
+  ```R
+  #### Recuperation de l'entrée
+   flux=file("stdin","r")
+   suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
+   print("mon resultat")
+   ```
   3) Ecrire le code R qui renvoie le nombre créé à l'aide du nombre d'occurences des chiffres d'un nombre récupérer grâce au code INPUT-A1.
