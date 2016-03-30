@@ -16,9 +16,6 @@
  print("mon resultat") 
  ```
   2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée
-    <br/> &nbsp;&nbsp;&nbsp; Exemple:  
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 111112229 
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> 531
   ```R
    #### Recuperation du nombre N en entrée
    flux=file("stdin","r")
