@@ -37,8 +37,7 @@ print("mon resultat")
 3) A partir du squelette suivant, calculez la moyenne pondérée d'une suite de notes, </br> 
 les note se trouvant sur la première ligne de l'entrée et leur coefficient respectives se trouvant sur la deuxième.
       
-```
-R
+```R
 #### Recuperation de la liste des notes
 flux=file("stdin","r")s
 notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
