@@ -8,8 +8,7 @@
     
     1) Envoyer le resultat pour les listes L1: 3 8 5 10 9 4 6 1 7 2 et L2: 8 10 1 6 3 2 9 7 5 4
     
-    2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
-    et qui verifie si une liste l1 est la liste renversée l2.
+    2) A partir du squellete suivant, ecrire un code en R qui verifie si une liste L1 est la liste renversée de L2.
   ```R
    #### Recuperation des deux listes en entrée
    flux=file("stdin","r")
@@ -23,18 +22,5 @@
    #### Envoyer le resultat
    print("mon resultat")
    ```
-    3) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
-     et qui verifie si une liste l1 est la permutation inverse de la liste l2
-  ```R
-   #### Recuperation des deux listes en entrée
-   flux=file("stdin","r")
-   L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-   L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
-   
-   #### ECRIRE 
-   #### LE 
-   #### CODE
-   
-   #### Envoyer le resultat
-   print("mon resultat")
-   ```
+    3) A partir du même squelette, verifiez si une liste L1 est la permutation ambigüe de la liste L2
+
