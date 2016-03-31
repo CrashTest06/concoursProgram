@@ -10,6 +10,31 @@
     
     2) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
     et qui verifie si une liste l1 est la liste renversée l2.
-    
+  ```R
+   #### Recuperation des deux listes en entrée
+   flux=file("stdin","r")
+   L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+   L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
+   
+   #### ECRIRE 
+   #### LE 
+   #### CODE
+   
+   #### Envoyer le resultat
+   print("mon resultat")
+   ```
     3) Ecrire un code R qui recupere deux listes en entrée grâce au code INPUT-A2
      et qui verifie si une liste l1 est la permutation inverse de la liste l2
+  ```R
+   #### Recuperation des deux listes en entrée
+   flux=file("stdin","r")
+   L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+   L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
+   
+   #### ECRIRE 
+   #### LE 
+   #### CODE
+   
+   #### Envoyer le resultat
+   print("mon resultat")
+   ```
