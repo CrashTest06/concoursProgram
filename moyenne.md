@@ -9,10 +9,10 @@
       1) Calculez la moyenne pondérée des notes : 18 18 12 11 7
       avec leur coefficients respectives : 6 2 4 4 1
       
-      ```
-      R
-      print("mon resultat")
-      ```
+```
+R
+print("mon resultat")
+```
       
       2) A partir du squelette suivant, calcule la moyenne non pondérées d'une liste de notes récupérée en entré.
       
