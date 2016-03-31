@@ -10,7 +10,7 @@ Calculer la moyenne pondéré à partir deux listes, celle des notes et celle de
 avec leur coefficients respectives : 6 2 4 4 1
     
 ```
-R
+r
 print("mon resultat")
 ```
       
