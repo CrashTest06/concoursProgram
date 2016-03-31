@@ -9,15 +9,13 @@ Calculer la moyenne pondéré à partir deux listes, celle des notes et celle de
 1) Calculez la moyenne pondérée des notes : 18 18 12 11 7
 avec leur coefficients respectives : 6 2 4 4 1
     
-```
-R
+```R
 print("mon resultat")
 ```
       
 2) A partir du squelette suivant, calcule la moyenne non pondérées d'une liste de notes récupérée en entré.
       
-```
-R
+```R
 #### Recuperation de la liste des notes
 flux=file("stdin","r")
 notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
