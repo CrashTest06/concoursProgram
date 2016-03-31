@@ -7,8 +7,7 @@
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> TRUE
     
     1) Envoyer le resultat pour les listes L1: 3 8 5 10 9 4 6 1 7 2 et L2: 8 10 1 6 3 2 9 7 5 4
-    ```
-    R
+    ```R
     print("mon resultat")
     ```
     2) A partir du squellete suivant, ecrire un code en R qui verifie si une liste L1 est la liste renversée de L2.
