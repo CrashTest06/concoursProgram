@@ -13,7 +13,7 @@ print(tableau_resultat);
 
 + 1) Faire sur feuille , le produit des deux tableaux suivants:
 <br/><br/>
-![Alt text](/ressources/exempleExo1MuxArray.PNG)
+![Alt text](/ressources/exempleExo1MuxArray.PNG) <br/>
 Envoyer un code R faisant un print du resultat en vous basant sur cet exemple:
 ```R
 print("4 6 12 36 78 28");
