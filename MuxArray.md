@@ -21,7 +21,7 @@ print("4 6 12 36 78 28");
 
 
 + 2) Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
-+ On considere que les tableaux passés en parametre ne sont jamais vide.
+On considere que les tableaux passés en parametre ne sont jamais vide.
 
 + 3) Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les elements pairs du tableau TableauRes.
-+ Attention les tableaux peuvent etre vide !
+Attention les tableaux peuvent etre vide !
