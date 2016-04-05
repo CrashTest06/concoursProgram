@@ -1,7 +1,7 @@
 # - Exercice MuxArray
 
 Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
-![Alt text](/exemple2MuxArray.PNG)
+![Alt text](/ressources/exemple2MuxArray.PNG)
 
 Employer le code INPUT-A2 pour recuperer les deux tableaux.
 
@@ -13,7 +13,7 @@ print(tableau_resultat);
 
 + 1) Faire sur feuille , le produit des deux tableaux suivants:
 <br/><br/>
-![Alt text](/exempleExo1MuxArray.PNG)
+![Alt text](/ressources/exempleExo1MuxArray.PNG)
 Envoyer un code R faisant un print du resultat en vous basant sur cet exemple:
 ```R
 print("4 6 12 36 78 28");
