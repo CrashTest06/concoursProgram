@@ -1,6 +1,6 @@
 # - Exercice Epluchage
 
-  Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qui apparaissent dans un nombre N et d'en faire un nouveau nombre M.
+  Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qui apparaissent dans un nombre positif N et d'en faire un nouveau nombre M.
   M ne doit pas etre construit en fonction de l'ordre d'apparition des chiffres rencontrés, mais dans cette ordre numérique croissant 1,2,..,9.
     <br/> &nbsp;&nbsp;&nbsp; Exemple:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 111112229 
@@ -20,7 +20,7 @@
    #### Recuperation du nombre N en entrée
    flux=file("stdin","r")
    suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
-   
+  
    #### ECRIRE 
    #### LE 
    #### CODE
