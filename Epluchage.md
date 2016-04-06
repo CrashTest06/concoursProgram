@@ -32,7 +32,7 @@
    #### Envoyer le resultat
    print("mon resultat")
    ```
-  3) Reprendre le code de la question 2, renvoyez M maintenant en comptant le nombre d'occurance du chiffre 0.
+  3) Reprendre le code de la question 2, renvoyez M maintenant en rajoutant aussi le nombre d'occurance du chiffre 0.
     <br/> M doit etre construire cette ordre numérique 1,2,..,9,0.
     <br/> &nbsp;&nbsp;&nbsp; Exemple:
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 1000111192229 
