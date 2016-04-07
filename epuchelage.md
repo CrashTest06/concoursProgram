@@ -8,7 +8,7 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
   
   
   
-### EXEMPLE
+### EXEMPLES
   
 -	Exemple 1:
 	-	input  -> 111112229 
