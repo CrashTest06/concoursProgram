@@ -14,7 +14,8 @@
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> [1] "GOOD"
   
-  
+  A savoir que pour tous les exercices les fichiers d'entrées seront bien formés, c'est à dire que, par exemple pour l'exercice 2 où on vous demande de couper le suite de binaire par morceaux de longueur 8, le fichier fourni sera d'une longueur d'un multiple de 8. Vous n'aurez donc pas à gérer les cas ou il y a moins de 8 éléments, ni le cas ou il y a entre 9 et 15.
+  De plus vous n'aurez pas a vérifier que le fichier continent uniquement des 0 et des 1, nous vous fourniron un fichier qui ne comportera uniquement que des 0 et des 1.
   
   1) Ecrire sur une feuille la représentation décimal, héxadécimal ou octal du binaire que vous avez coupé en morceau de 8 au préalable.
   
@@ -30,5 +31,3 @@
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; input  -> 1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 6 13 19 26 32
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; output -> [1] "(z*a)"
-    
-    Bonne chance !
