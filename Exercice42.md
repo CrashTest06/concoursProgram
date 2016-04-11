@@ -42,6 +42,7 @@ print(nombre_a_afficher); # exemple
 ```
 
 + 3) Plus dur , à present on souhaite afficher 42 lorsque la somme des 3 derniers elements lus fait 42.
+
 Exemple:
 
 <pre><code>Input:
