@@ -1,6 +1,6 @@
 # - Exercice MuxArray
 
-Ce probleme demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
+Ce problème demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
 ![Alt text](/ressources/exemple2MuxArray.PNG)
 
 <br/><br/><br/><br/><br/><br/>
@@ -29,5 +29,5 @@ Vous afficherez le tableau contenant le resultat de la maniere suivante :
 print(tableau_resultat);
 ```
 <br/><br/>
-+ 3) **Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les elements pairs du tableau TableauRes.
++ 3) **Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les élements pairs du tableau TableauRes.
 Attention les tableaux peuvent etre vide !**
