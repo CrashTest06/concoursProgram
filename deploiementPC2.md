@@ -24,18 +24,20 @@ Cette IP est récupérée sur un fichier texte hebergé dans un dossier WWW d'un
 
 + Récuperer et dezipper le zip pc2 sur le site officiel http://pc2.ecs.csus.edu/
 + Déposer le dossier sur le serveur
-+ Configurer le fichier pc2v9.ini du dossier en inserant l'ip du serveur ``` server=ipServeur:numPort ``` , indiquer egalement le numero de port.
++ Veiller à ce que Java soit correctement installé , la variable d'environnement JAVA_HOME doit etre définie.
++ Ajouter une variable d'environnement PC2HOME pointant vers le chemin du dossier bin de pc2
++ Configurer le fichier pc2v9.ini du dossier pc2  ``` server=localhost:numPort ``` , en indiquant le numero de port utilisé.
 + Copier et coller ce meme fichier dans les dossiers 'bin' et 'lib' 
-+ Via le terminal , deplacez vous sur le dossier bin de pc2 et entrez ``` ./pc2server ``` , le serveur se lancera.
++ Via le terminal , deplacez vous sur le dossier bin de pc2 et entrer  ``` ./pc2server ``` , le serveur se lancera.
 
 # - Installation de PC2 sur le client
 
 /!\ java doit etre imperativement installé /!\
 
-+ Recuperer et dezipper le meme zip pc2
-+ Deposer le dossier pc2 en local sur les machines
++ Récuperer et dezipper le meme zip pc2
++ Déposer le dossier pc2 en local sur les machines
 + Ajouter une variable d'environnement PC2HOME pointant vers le chemin du dossier bin de pc2
-+ Configurer le fichier pc2v9.ini en y inserant l'ip du serveur ``` server=ipServeur:numPort ``` 
-+ Le fichier .ini doit etre deposé dans le dossier lib et bin
-+ Dans le dossier pc2 , supprimer tout les dossier sauf bin et lib.
-+ Via le terminal , tapez ``` cd $PC2HOME && pc2team ``` , le client pc2 se lancera.
++ Configurer le fichier pc2v9.ini en y inserant l'ip du serveur ainsi que le numero de port utilisé ``` server=ipServeur:numPort ``` 
++ Le fichier .ini doit etre également déposé dans le dossier lib et bin
++ Dans le dossier pc2 , supprimer tout les dossiers sauf bin et lib.
++ Via le terminal , tapez ``` cd $PC2HOME && ./pc2team ``` , le client pc2 se lancera.
