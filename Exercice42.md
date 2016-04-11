@@ -18,6 +18,7 @@ Your program is to use the brute-force approach in order to find the Answer to L
 88
 </code></pre>
 
+### - Exercices
 
 + 1) Ecrire sur feuille le resultat donné avec cette suite de nombres donnée: 1 2 8 41 20 42 1 9 5 3
 
