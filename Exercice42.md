@@ -43,5 +43,28 @@ print(nombre_a_afficher); # exemple
 
 + 3) Plus dur , à present on souhaite afficher 42 lorsque la somme des 3 derniers elements lus fait 42.
 Exemple:
-input   -> 1 3 5 7 1 1 40 9 8
-output  -> 1 3 5 7 1 1 42 42 42
+
+<pre><code>Input:
+1
+3
+5
+7
+1
+1
+40
+9
+8
+</code></pre>
+
+
+<pre><code>Output:
+1
+3
+5
+7
+1
+1
+42
+42
+42
+</code></pre>
