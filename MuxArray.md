@@ -5,6 +5,11 @@ Ce probleme demande la réalisation du produit de deux tableaux passés dans l'e
 
 
 
+
+
+
+
+
 + 1) Faire sur feuille , le produit des deux tableaux suivants:
 <br/><br/>
 ![Alt text](/ressources/exempleExo1MuxArray.PNG) <br/>
