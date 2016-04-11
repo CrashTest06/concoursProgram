@@ -13,7 +13,7 @@ Envoyer un code R faisant un print du resultat en vous basant sur cet exemple:
 print("4 6 12 36 78 28");
 ```
 
-
+<br/><br/>
 + 2) Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
 On considere que les tableaux passés en parametre ne sont jamais vide.
 
@@ -28,6 +28,6 @@ Vous afficherez le tableau contenant le resultat de la maniere suivante :
 ```R
 print(tableau_resultat);
 ```
-
+<br/><br/>
 + 3) Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les elements pairs du tableau TableauRes.
 Attention les tableaux peuvent etre vide !
