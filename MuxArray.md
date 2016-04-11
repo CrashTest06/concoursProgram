@@ -14,8 +14,8 @@ print("4 6 12 36 78 28");
 ```
 
 <br/><br/>
-+ 2) Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
-On considere que les tableaux passés en parametre ne sont jamais vide.
++ 2) **Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
+On considere que les tableaux passés en parametre ne sont jamais vide.**
 
 Vous emploierez ces lignes de codes pour récuperer les deux tableaux.
 ```R
