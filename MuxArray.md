@@ -1,10 +1,10 @@
-# - Exercice MuxArray
+# - MuxArray
 
 Ce problème demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
 ![Alt text](/ressources/exemple2MuxArray.PNG)
 
 <br/><br/><br/><br/><br/><br/>
-
+### -Exercices
 + 1) **Faire sur feuille , le produit des deux tableaux suivants:**
 <br/><br/>
 ![Alt text](/ressources/exempleExo1MuxArray.PNG) <br/>
