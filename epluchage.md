@@ -51,6 +51,10 @@ car il y a **deux** occurences du nombre 1 , **trois** occurences de 2 , **deux*
  
 + **2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
 
+> **aide**
+> - aidez vous d'un tableau pour memoriser les occurences
+
+
 ```R
 	#### Recuperation du nombre N en entrée
 	flux=file("stdin","r")
