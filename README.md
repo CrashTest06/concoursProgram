@@ -1,7 +1,7 @@
 # TP noté L1 MASS
 
 ## - *Prise en main*:
-+ https://github.com/GRnice/concoursProgram/blob/master/priseEnMain.md
++ [Prise en main](https://github.com/GRnice/concoursProgram/blob/master/priseEnMain.md "Prise en main")
 
 ## - Liste des éxercices:
 + [Problème du 42](https://github.com/GRnice/concoursProgram/blob/master/Exercice42.md "Le 42")
