@@ -35,7 +35,7 @@ output -> [1] "GOOD"
 
 + **2) Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère ascii en utilisant:```intToUtf8(arg)```**
 
-+ **3) Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entier positif. Ces entiers vont vous permettre de découper la binaire.En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de taille qui est indiqué par la suite d'entier présente sur la deuxième ligne du fichier.Ecrivez un code R, qui découpe et traduit en ascii la suite de binaire selon la suite d'entier se trouvant sur la deuxième ligne du fichier**
++ **3) Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entiers positifs. Ces entiers vont vous permettre de découper le binaire.En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de tailles indiqués par la suite d'entiers présents sur la deuxième ligne du fichier.Ecrivez un code R, qui découpe et traduit en ascii la suite de binaire en fonction des differentes tailles de decoupes**
   #### Exemple:
 
 ```R
