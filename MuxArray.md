@@ -26,8 +26,20 @@ tableau2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
 
 Vous afficherez le tableau contenant le resultat de la maniere suivante : 
 ```R
-print(tableau_resultat);
+cat(tableau_resultat);
 ```
 <br/><br/>
 + 3) **Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les élements pairs du tableau TableauRes.
 Attention les tableaux peuvent etre vide !**
+
+Utilisez les memes lignes de codes pour récuperer les deux tableaux.
+```R
+flux=file("stdin","r")
+tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+tableau2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
+```
+
+Vous afficherez le tableau contenant le resultat de la meme maniere : 
+```R
+cat(tableau_resultat);
+```
