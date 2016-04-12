@@ -28,8 +28,12 @@ output -> [1] "GOOD"
 ```R
     output -> [1] "GOOD"
 ```
+  ***A vous de jouer avec cet input:***
+```R
+      input  -> 0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
+```
 
-+ **2) Ecrire un code R qui récupre le nombre binaire, qui le coupe en morceaux de longueur 8. Convertissez en décimal les plusieurs représentation binaires que vous avez découpé. Obtenez avec ces nombres décimaux le caractère ascii correspondant en utilisant:```intToUtf8(arg)```**
++ **2) Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère ascii en utilisant:```intToUtf8(arg)```**
 
 + **3) Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entier positif. Ces entiers vont vous permettre de découper la binaire.En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de taille qui est indiqué par la suite d'entier présente sur la deuxième ligne du fichier.Ecrivez un code R, qui découpe et traduit en ascii la suite de binaire selon la suite d'entier se trouvant sur la deuxième ligne du fichier**
   #### Exemple:
