@@ -5,9 +5,9 @@ Repository du concours de programmation , sujet de TER
 + [probleme du 42](https://github.com/GRnice/concoursProgram/blob/master/Exercice42.md "Le 42") <br/>
 + [probleme muxArray](https://github.com/GRnice/concoursProgram/blob/master/MuxArray.md "MuxArray") <br/>
 + [probleme des moyennes](https://github.com/GRnice/concoursProgram/blob/master/moyenne.md "Moyennes")
-+ [probleme de l'épluchage](https://github.com/GRnice/concoursProgram/blob/master/epuchelage.md "Epluchage") <br/>
-+ [probleme de permutations](https://github.com/GRnice/concoursProgram/blob/master/permut.md "Permutations") <br/>
-+ [decoupage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast") <br/>
++ [probleme de l'épluchage](https://github.com/GRnice/concoursProgram/blob/master/epuchelage.md "Epluchage")
++ [probleme de permutations](https://github.com/GRnice/concoursProgram/blob/master/permut.md "Permutations")
++ [decoupage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast")
 
 
 ## - Traitement des entrées avec R
