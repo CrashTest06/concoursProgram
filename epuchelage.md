@@ -32,11 +32,11 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 
 
 + **1) Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
-	#### Exemple
+#### Exemple
 
-		```R
-		cat("mon resultat") 
-		```
+	```R
+	cat("mon resultat") 
+	```
  
 + **2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
 
