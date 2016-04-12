@@ -17,7 +17,7 @@ output -> [1] "GOOD"
   
 1) **Ecrire sur une feuille la représentation décimal, héxadécimal ou octal du binaire que vous avez coupé en morceau de 8 au préalable.**
 
-2) ** Ecrire un code R qui récupre le nombre binaire, qui le coupe en morceaux de longueur 8. Convertissez en décimal les plusieurs représentation binaires que vous avez découpé. Obtenez avec ces nombres décimaux le caractère ascii correspondant en utilisa **
+2) **Ecrire un code R qui récupre le nombre binaire, qui le coupe en morceaux de longueur 8. Convertissez en décimal les plusieurs représentation binaires que vous avez découpé. Obtenez avec ces nombres décimaux le caractère ascii correspondant en utilisant:```intToUtf8(arg)```**
 
 3) **Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entier positif. Ces entiers vont vous permettre de découper la binaire.** 
 En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de taille qui est indiqué par la suite d'entier présente sur la deuxième ligne du fichier.
