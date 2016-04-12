@@ -28,7 +28,7 @@ output -> [1] "GOOD"
 ```R
     output -> [1] "GOOD"
 ```
-    ***A vous de jouer avec cet input:***
+  + ***A vous de jouer avec cet input:***
 ```R
       input  -> 0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
 ```
