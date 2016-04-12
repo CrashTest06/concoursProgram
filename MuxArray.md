@@ -15,7 +15,7 @@ cat("4 6 12 36 78 28");
 
 <br/><br/>
 + 2) **MUXA2 - Generez un algorithme prenant en entrée les deux tableaux , et faisant un print du resultat via print.
-On considere que les tableaux passés en parametre ne sont jamais vide.**
+On considere que les tableaux passés en parametre ne sont jamais vides et ont strictement la meme taille.**
 
 Vous emploierez ces lignes de codes pour récuperer les deux tableaux.
 ```R
@@ -23,6 +23,8 @@ flux=file("stdin","r")
 tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
 tableau2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
 ```
+> *aide*
+> - Deux tableaux de meme taille facilite la tache au niveau des indices
 
 Vous afficherez le tableau contenant le resultat de la maniere suivante : 
 ```R
