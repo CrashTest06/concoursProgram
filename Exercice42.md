@@ -1,51 +1,76 @@
-# - TEST - Life, the Universe, and Everything
-Your program is to use the brute-force approach in order to find the Answer to Life, the Universe, and Everything. More precisely... rewrite small numbers from input to output. Stop processing input after reading in the number 42. All numbers at input are integers of one or two digits.
+# Life, the Universe, and Everything
 
-### -Example
+Votre programme va adopter une approche force brute pour trouver la réponse à *the Life, the Universe, and Everything*.
+Plus précisément, vous devez réécrire des petits nombres lus depuis l'entrée standard vers la sortie standard.
+Vous arrêterez ce traitement à la lecture du nombre 42.
+Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 
-<pre><code>Input:
+### Exemple
+
+#### Input
+```
 1
 2
 88
 42
 99
-</code></pre>
+```
 
-
-<pre><code>Output:
+#### Output
+```
 1
 2
 88
-</code></pre>
+```
 
-### - Exercices
+## PTEST - Question préliminaire
 
-+ 1) Ecrire sur feuille le resultat donné avec cette suite de nombres donnée: 1 2 8 41 20 42 1 9 5 3
+Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nombres :
+```
+1
+2
+8
+41
+20
+42
+1
+9
+5
+3
+```
 
-+ 2) Ecrire le programme en R qui traitera le probleme
 
+## TEST -  Life, the Universe, and Everything
 
-Pour récuperer la suite de nombres , employez ce bout de code:
+Écrire un programme R respectant les spécifications ci-dessus.
+
+### Conseils et éléments de code
+
+Pour récupérer la suite de nombres, employez ce bout de code:
 ```R
 flux=file("stdin","r")
 suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 ```
-
-A chaque iteration vous devez afficher sur la sortie standard à l'aide de print le nombre à afficher.
+À chaque itération, vous pouvez afficher sur la sortie standard à l'aide de `print` le nombre à afficher.
 ```R
 while (length(suiteNombre) >= i)
 {
 ...
-print(nombre_a_afficher); # exemple
+print(suiteNombre[i]); # exemple
 ...
 }
 ```
 
-+ 3) Plus dur , à present on souhaite afficher 42 lorsque la somme des 3 derniers elements lus fait 42.
 
-Exemple:
+## STEST - Sum of Life, the Universe, and Everything
 
-<pre><code>Input:
+Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombres suivants est égale à 42.
+
+### Exemple
+
+#### Input
+
+```
 1
 3
 5
@@ -55,17 +80,13 @@ Exemple:
 40
 9
 8
-</code></pre>
+```
 
+#### Output
 
-<pre><code>Output:
+```
 1
 3
 5
 7
-1
-1
-42
-42
-42
-</code></pre>
+```
