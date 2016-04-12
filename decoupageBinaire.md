@@ -7,7 +7,6 @@
 ```
 input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 ```
-
 ```
 output -> [1] "GOOD"
 ```
@@ -15,7 +14,19 @@ output -> [1] "GOOD"
   
 ## - Exercices
   
-1) **Ecrire sur une feuille la représentation décimal, héxadécimal ou octal du binaire que vous avez coupé en morceau de 8 au préalable.**
+1) **Ecrire sur une feuille la représentation décimal, héxadécimal ou octal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii le caractère correspondant.**
+
+#### - Exemple:
+
+```
+input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
+```
+```
+Code R -> print("GOOD")
+```
+```
+output -> [1] "GOOD"
+```
 
 2) **Ecrire un code R qui récupre le nombre binaire, qui le coupe en morceaux de longueur 8. Convertissez en décimal les plusieurs représentation binaires que vous avez découpé. Obtenez avec ces nombres décimaux le caractère ascii correspondant en utilisant:```intToUtf8(arg)```**
 
