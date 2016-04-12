@@ -43,5 +43,6 @@ output -> [1] "GOOD"
 ```
 
 
- ### Table Ascii:
- ![Alt text](/ressources/exemple2MuxArray.PNG)
+### Table Ascii:
+ 
+![Alt text](/ressources/table_ascii.png)
