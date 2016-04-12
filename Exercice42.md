@@ -49,14 +49,14 @@ Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nom
 Pour récupérer la suite de nombres, employez ce bout de code:
 ```R
 flux=file("stdin","r")
-suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
+suiteNombre=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
 ```
 À chaque itération, vous pouvez afficher sur la sortie standard à l'aide de `print` le nombre à afficher.
 ```R
-while (length(suiteNombre) >= i)
+while (...)
 {
 ...
-print(suiteNombre[i]); # exemple
+print(nombre_a_afficher); # exemple
 ...
 }
 ```
