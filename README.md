@@ -18,11 +18,11 @@
   suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
   ```
 
-  ***Veillez à bien utiliser l'option suivante:***
+  **Veillez à bien utiliser l'option suivante:**
   ```R
   quiet=TRUE
   ```
-  Si vous ne l'utiliser pas, votre résultat sera faussé.
+  ***Si vous ne l'utiliser pas, votre résultat sera faussé.***
 
 
 + **Pour récuperer les deux tableaux du problème MuxArrray dans l'entrée standard:**
