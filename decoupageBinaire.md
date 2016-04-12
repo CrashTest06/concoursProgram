@@ -9,7 +9,7 @@
 input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 ```
 ```R
-output -> [1] "GOOD"
+output -> GOOD
 ```
 
 ## - Entrée & sortie
@@ -45,10 +45,10 @@ output -> [1] "GOOD"
     input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 ```
 ```R
-    Code R -> print("GOOD")
+    Code R -> cat("GOOD")
 ```
 ```R
-    output -> [1] "GOOD"
+    output -> GOOD
 ```
   + ***A vous de jouer avec cet input:***
 ```R
@@ -65,7 +65,7 @@ output -> [1] "GOOD"
                6 13 19 26 32
 ```
 ```R
-      output -> [1] "(z*a)"
+      output -> (z*a)
 ```
 
 
