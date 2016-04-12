@@ -11,7 +11,7 @@
 + [Problème des moyennes](https://github.com/GRnice/concoursProgram/blob/master/moyenne.md "Moyennes")
 + [Problème de l'épluchage](https://github.com/GRnice/concoursProgram/blob/master/epuchelage.md "Epluchage")
 + [Problème de permutations](https://github.com/GRnice/concoursProgram/blob/master/permut.md "Permutations")
-+ [ProDécoupage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast")
++ [Problème Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast")
 
 
 ## - Traitement des entrées avec R
