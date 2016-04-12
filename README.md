@@ -13,10 +13,10 @@
 ## - Traitement des entrées avec R
 
 + **Pour lire la ligne L de l'entrée standard:**
-```R
-flux=file("stdin","r")
-suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
-```
+  ```R
+  flux=file("stdin","r")
+  suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
+  ```
 
   ***Veillez à bien utiliser l'option suivante:***
   ```R
