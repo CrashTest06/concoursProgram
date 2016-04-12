@@ -28,9 +28,12 @@ Vous afficherez le tableau contenant le resultat de la maniere suivante :
 ```R
 cat(tableau_resultat);
 ```
+
+Vous trouverez un fichier de test [via ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/muxarrayexo2.in "test")
+
 <br/><br/>
 + 3) **MUXA3 - Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les élements pairs du tableau TableauRes.
-Attention les tableaux peuvent etre vide !**
+Attention les tableaux peuvent etre vides !**
 
 Utilisez les memes lignes de codes pour récuperer les deux tableaux.
 ```R
