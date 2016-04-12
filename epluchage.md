@@ -12,7 +12,7 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 ```R
 	output -> 2321
 ```
-car il y a 2 occurences du nombre 1 , 3 occurences de 2 , 2 occurences de 4 , et enfin 1 occurence de 9 , ce qui donne bien : ```1321```
+car il y a **2** occurences du nombre 1 , **3** occurences de 2 , **2** occurences de 4 , et enfin **1** occurence de 9 , ce qui donne bien : ```1321```
 
 ## - Entrée & sortie
 
