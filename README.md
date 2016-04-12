@@ -23,7 +23,7 @@ Veillez à bien utiliser l'option suivante:
 ```R
 quiet=TRUE
 ```
-Si vous ne l'utiliser pas, votre fichier de sortie sera faussé, en effet sans cette option, votre fichier de sortie contiendra sur la première ligne, le nombre d'éléments que la commande scan à lu, chose qui n'est pas souhaité.
+Si vous ne l'utiliser pas, votre résultat sera faussé.
 
 
 
