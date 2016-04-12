@@ -1,6 +1,6 @@
 # 	Exercice Permutation
 
-### ENNONCÉ
+### ENONCÉ
 
 
 Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre liste L2 
@@ -21,7 +21,7 @@ Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre list
 ### QUESTIONS
 
 
-1.	 Envoyer le resultat pour les listes L1: 3 8 5 10 9 4 6 1 7 2 et L2: 8 10 1 6 3 2 9 7 5 4
+1.	 Envoyer le résultat pour les listes L1: 3 8 5 10 9 4 6 1 7 2 et L2: 8 10 1 6 3 2 9 7 5 4
 
 
   ```R
@@ -29,7 +29,7 @@ Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre list
 	print("mon resultat") 
  ```
  
-2.	 A partir du squellete suivant, ecrire un code en R qui verifie si une liste L1 est la liste renversée de L2.
+2.	 A partir du squelette suivant, écrire un code en R qui vérifie si une liste L1 est la liste renversée de L2.
 
 
 
@@ -58,5 +58,5 @@ Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre list
    ```
    
    
-3.	 3) A partir du même squelette, verifiez si une liste L1 est la permutation ambigüe de la liste L2
+3.	 3) A partir du même squelette, vérifiez si une liste L1 est la permutation ambigüe de la liste L2
 
