@@ -5,6 +5,7 @@
 + [Prise en main](https://github.com/GRnice/concoursProgram/blob/master/priseEnMain.md "Prise en main")
 
 ## - Liste des éxercices:
++ [Echauffement](https://github.com/GRnice/concoursProgram/blob/master/echauffement.md "échauffement")
 + [Problème du 42](https://github.com/GRnice/concoursProgram/blob/master/Exercice42.md "Le 42")
 + [Problème muxArray](https://github.com/GRnice/concoursProgram/blob/master/MuxArray.md "MuxArray")
 + [Problème des moyennes](https://github.com/GRnice/concoursProgram/blob/master/moyenne.md "Moyennes")
