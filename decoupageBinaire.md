@@ -37,7 +37,7 @@ output -> GOOD
   
 ## - Exercices
   
-+ **1) Ecrire sur une feuille la représentation décimal ou héxadécimal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant.**
++ **1) Calculer à la main la représentation décimal ou héxadécimal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
   ####  Exemple:
 
