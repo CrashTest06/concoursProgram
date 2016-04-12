@@ -44,7 +44,7 @@ car il y a **deux** occurences du nombre 1 , **trois** occurences de 2 , **deux*
 	```R
 	output -> 531 
 	```
-+ ***A vous de jouer avec cet input:***
+ ***A vous de jouer avec cet input:***
 	```R
 	input -> 685415111
 	```
