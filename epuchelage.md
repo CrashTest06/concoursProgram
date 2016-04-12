@@ -1,6 +1,6 @@
 # 	Exercice Epluchage
 
-### ENNONCÉ
+### ENONCÉ
 
 
 Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qui apparaissent dans un nombre positif N et d'en faire un nouveau nombre M.
@@ -24,7 +24,7 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 ### QUESTIONS
 
 
-1.	Envoyer le resultat pour n = 685415111
+1.	Envoyer le résultat pour n = 685415111
 
 
   ```R
