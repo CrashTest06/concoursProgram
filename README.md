@@ -20,7 +20,7 @@
 
   ***Veillez à bien utiliser l'option suivante:***
   ```R
-    quiet=TRUE
+  quiet=TRUE
   ```
   Si vous ne l'utiliser pas, votre résultat sera faussé.
 
