@@ -2,8 +2,8 @@
 Repository du concours de programmation , sujet de TER
 
 ## - Enoncés:
-+ [probleme du 42](https://github.com/GRnice/concoursProgram/blob/master/Exercice42.md "Le 42") <br/>
-+ [probleme muxArray](https://github.com/GRnice/concoursProgram/blob/master/MuxArray.md "MuxArray") <br/>
++ [probleme du 42](https://github.com/GRnice/concoursProgram/blob/master/Exercice42.md "Le 42")
++ [probleme muxArray](https://github.com/GRnice/concoursProgram/blob/master/MuxArray.md "MuxArray")
 + [probleme des moyennes](https://github.com/GRnice/concoursProgram/blob/master/moyenne.md "Moyennes")
 + [probleme de l'épluchage](https://github.com/GRnice/concoursProgram/blob/master/epuchelage.md "Epluchage")
 + [probleme de permutations](https://github.com/GRnice/concoursProgram/blob/master/permut.md "Permutations")
