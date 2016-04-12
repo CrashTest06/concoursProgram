@@ -10,7 +10,7 @@ Ce problème demande la réalisation du produit de deux tableaux passés dans l'
 ![Alt text](/ressources/exempleExo1MuxArray.PNG) <br/>
 Envoyer un code R faisant un print du resultat en vous basant sur cet exemple:
 ```R
-print("4 6 12 36 78 28");
+cat("4 6 12 36 78 28");
 ```
 
 <br/><br/>
