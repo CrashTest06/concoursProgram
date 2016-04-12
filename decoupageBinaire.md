@@ -4,10 +4,10 @@
   Sur la première ligne du fichier vous trouverez le nombre de binaire à couper.
   A savoir que pour tous les exercices les fichiers d'entrées seront bien formés.
   
-```
+```R
 input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 ```
-```
+```R
 output -> [1] "GOOD"
 ```
 
@@ -18,13 +18,13 @@ output -> [1] "GOOD"
   
   ####  Exemple:
 
-```
+```R
     input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 ```
-```
+```R
     Code R -> print("GOOD")
 ```
-```
+```R
     output -> [1] "GOOD"
 ```
 
@@ -33,10 +33,10 @@ output -> [1] "GOOD"
 + 3) **Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entier positif. Ces entiers vont vous permettre de découper la binaire.En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de taille qui est indiqué par la suite d'entier présente sur la deuxième ligne du fichier.Ecrivez un code R, qui découpe et traduit en ascii la suite de binaire selon la suite d'entier se trouvant sur la deuxième ligne du fichier**
   #### Exemple:
 
-```
+```R
       input -> 1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
                6 13 19 26 32
 ```
-```
+```R
       output -> [1] "(z*a)"
 ```
