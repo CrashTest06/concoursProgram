@@ -7,11 +7,12 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
   
 #### Exemple
 ```R
-	input  -> 111112229
+	input  -> 11449222
 ```
 ```R
-	output -> 531 
+	output -> 2321
 ```
+car il y a 2 occurences du nombre 1 , 3 occurences de 2 , 2 occurences de 4 , et enfin 1 occurence de 9
 
 ## - Entrée & sortie
 
