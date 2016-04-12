@@ -53,10 +53,10 @@ suiteNombre=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
 ```
 À chaque itération, vous pouvez afficher sur la sortie standard à l'aide de `print` le nombre à afficher.
 ```R
-while (...)
+while (length(suiteNombre) >= i)
 {
 ...
-print(nombre_a_afficher); # exemple
+print(suiteNombre[i]); # exemple
 ...
 }
 ```
