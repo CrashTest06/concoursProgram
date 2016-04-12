@@ -28,6 +28,8 @@
 + **Pour récuperer les deux tableaux du problème MuxArrray dans l'entrée standard:**
   ```R
   flux=file("stdin","r");
+  tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+  tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
   ```
 ## - Traitement des sorties avec R
 
