@@ -1,13 +1,13 @@
 # TP noté L1 MASS
 
 
-## - Liste des éxercicess:
+## - Liste des éxercices:
 + [Problème du 42](https://github.com/GRnice/concoursProgram/blob/master/Exercice42.md "Le 42")
 + [Problème muxArray](https://github.com/GRnice/concoursProgram/blob/master/MuxArray.md "MuxArray")
 + [Problème des moyennes](https://github.com/GRnice/concoursProgram/blob/master/moyenne.md "Moyennes")
 + [Problème de l'épluchage](https://github.com/GRnice/concoursProgram/blob/master/epuchelage.md "Epluchage")
 + [Problème de permutations](https://github.com/GRnice/concoursProgram/blob/master/permut.md "Permutations")
-+ [Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast")
++ [ProDécoupage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast")
 
 
 ## - Traitement des entrées avec R
