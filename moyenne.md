@@ -7,12 +7,18 @@ Calculer la moyenne pondéré à partir de deux listes, une contenant les notes 
   
   
   
-### EXEMPLES
-  
--	Exemple :
-	-	input ligne 1  -> 15 10 20 5 2 10
-	-	input ligne 2 -> 42 8 1 6 5 3 
-    -	output -> 8
+### EXEMPLE
+
+Input:
+```
+ligne 1 : 15 10 20 5 2 10
+ligne 2 :  2  8  1 6 5  3
+```
+
+Output:
+```
+8
+```
 
 *La ligne 1 correspond a la liste contenant les notes*
 
