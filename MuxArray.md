@@ -46,3 +46,5 @@ Vous afficherez le tableau contenant le resultat de la meme maniere :
 ```R
 cat(tableau_resultat);
 ```
+
+Vous trouverez un fichier de test [sur ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/muxarrayexo3.in "test") , cliquez droit dessus et enregistrez la cible sur le dossier d'où vous travaillez votre solution.
