@@ -3,7 +3,7 @@
   Déchiffrez le message qui se cache derriere cette suite de 0 et 1...
   Sur la première ligne du fichier vous trouverez le nombre de binaire à couper.
   A savoir que pour tous les exercices les fichiers d'entrées seront bien formés.
-  
+####  Exemple:
 ```R
 input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 ```
