@@ -7,18 +7,24 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
   
 #### Exemple
 ##### 1
-```
+```R
 	input  -> 111112229
+```
+```R
 	output -> 531 
 ```
 ##### 2
-```
+```R
 	input  -> 122121911
+```
+```R
 	output -> 5311
 ```
 ##### 3
-```
+```R
 	input  -> 311
+```
+```R
 	output -> 21
 ```
 
@@ -29,14 +35,14 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 + 1) **Envoyer le résultat pour n = 685415111.**
 
 
-  ```R
+```R
 	#### Envoyer le resultat
 	print("mon resultat") 
- ```
+```
  
 + 2) **Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
 
-  ```R
+```R
 	#### Recuperation du nombre N en entrée
 	flux=file("stdin","r")
 	suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
@@ -52,12 +58,14 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 	#### Envoyer le resultat
 	print("mon resultat")
    
-   ```
+```
    
 + 3) **Reprendre le code de la question 2, renvoyez M maintenant en rajoutant aussi le nombre d'occurance du chiffre 0. M doit etre construire cette ordre numérique 1,2,..,9,0.**
 
 #### Exemple:
-```	
+```R	
 	input  -> 1000111192229
+```
+```R
    	output -> 5323 
 ```
