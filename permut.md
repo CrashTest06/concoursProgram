@@ -10,9 +10,9 @@ Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre list
 ### EXEMPLES
   
 -	Exemple :
-	-	input ligne 1  -> 2 3 4 5 1 
-	-	input ligne 2 ->  5 1 2 3 4 
-    -	output -> TRUE
+	-	input ligne 1  : ```2 3 4 5 1``` 
+	-	input ligne 2 :  ```5 1 2 3 4 ```
+    -	output : ```TRUE```
 
 *La ligne 1 correspond a la liste L1*
 
@@ -21,7 +21,7 @@ Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre list
 ### QUESTIONS
 
 
-1.	 Envoyer le résultat pour les listes L1: 3 8 5 10 9 4 6 1 7 2 et L2: 8 10 1 6 3 2 9 7 5 4
+1.	 Envoyer le résultat pour les listes L1: ```3 8 5 10 9 4 6 1 7 2``` et L2: ```8 10 1 6 3 2 9 7 5 4```
 
 
   ```R
@@ -36,8 +36,8 @@ Verifier si une suite de nombre L1 est une permutation ambigüe d'une autre list
 
 
 	-	Exemple:
-		-	input  -> 15 16 12 9 12 14
-   		-	output -> 14 12 9 12 16 15
+		-	input  : ```15 16 12 9 12 14```
+   		-	output : ```14 12 9 12 16 15```
 
 
 
