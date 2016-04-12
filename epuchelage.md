@@ -13,17 +13,29 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 	output -> 531 
 ```
 
+## - Entrée & sortie
+
++ **Entrée**:
+
+    ```R
+    flux=file("stdin","r")
+    suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
+    ```
++ **Sortie**:
+
+  ```R
+  res=intToUtf8(mon_vecteur)
+  cat(res)
+  ```
 
 ## - Exercice
 
 
 + **1) Envoyer le résultat pour n = 685415111.**
 
-
-```R
-	#### Envoyer le resultat
-	print("mon resultat") 
-```
+	```R
+	cat("mon resultat") 
+	```
  
 + **2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
 
