@@ -48,7 +48,9 @@ car il y a **deux** occurences du nombre 1 , **trois** occurences de 2 , **deux*
 	```R
 	input -> 685415111
 	```
- 
+	
+<br/><br/>
+
 + **2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
 
 > **aide**
@@ -72,7 +74,7 @@ car il y a **deux** occurences du nombre 1 , **trois** occurences de 2 , **deux*
 	print("mon resultat")
    
 ```
-   
+<br/><br/><br/>   
 + **3) Reprendre le code de la question 2, renvoyez M maintenant en rajoutant aussi le nombre d'occurance du chiffre 0. M doit etre construire cette ordre numérique 1,2,..,9,0.**
 
 #### Exemple:
