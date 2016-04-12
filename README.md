@@ -1,6 +1,7 @@
 # TP noté L1 MASS
 
-## - *Prise en main*:
+
+## - **Prise en main**:
 + [Prise en main](https://github.com/GRnice/concoursProgram/blob/master/priseEnMain.md "Prise en main")
 
 ## - Liste des éxercices:
