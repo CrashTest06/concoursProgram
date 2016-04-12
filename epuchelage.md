@@ -6,26 +6,11 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
   
   
 #### Exemple
-##### 1
 ```R
 	input  -> 111112229
 ```
 ```R
 	output -> 531 
-```
-##### 2
-```R
-	input  -> 122121911
-```
-```R
-	output -> 5311
-```
-##### 3
-```R
-	input  -> 311
-```
-```R
-	output -> 21
 ```
 
 
@@ -68,4 +53,23 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 ```
 ```R
    	output -> 5323 
+```
+
+
+
+
+**ce code la il faut que tu le place bien:**
+
+```R
+	input  -> 122121911
+```
+```R
+	output -> 5311
+```
+
+```R
+	input  -> 311
+```
+```R
+	output -> 21
 ```
