@@ -35,7 +35,13 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 #### Exemple
 
 	```R
-	cat("mon resultat") 
+	input  -> 111112229
+	```
+	```R
+	Code R -> cat(531) 
+	```
+	```R
+	output -> 531 
 	```
  
 + **2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
