@@ -12,6 +12,28 @@ input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
 output -> [1] "GOOD"
 ```
 
+## - Entrée & sortie
+
++ **Entrée**:
+  + **Exercice 2**
+  
+    ```R
+    flux=file("stdin","r");
+    suiteBinaire=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+    ```
+  + **Exercice 3**
+  
+     ```R
+    flux=file("stdin","r");
+    suiteBinaire=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+    nombrePourDecouper=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+    ```
++ **Sortie**:
+
+  ```R
+  res=intToUtf8(mon_vecteur)
+  cat(res)
+  ```
   
 ## - Exercices
   
