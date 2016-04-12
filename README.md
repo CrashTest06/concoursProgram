@@ -3,7 +3,7 @@ Repository du concours de programmation , sujet de TER
 
 # - Traitement des entrées avec R
 
-<section>(INPUT-A1) Pour lire la ligne L de l'entrée standard: </section>
+<section> Pour lire la ligne L de l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
@@ -11,7 +11,7 @@ suiteNombre=scan(file=flux, what=integer(), nline=L, quiet=TRUE)
 
 
 
-<section> (INPUT-A2) Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
+<section> Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard: </section>
 ```R
 flux=file("stdin","r")
 tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
