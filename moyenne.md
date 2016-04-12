@@ -27,7 +27,7 @@ Output:
 ### QUESTIONS
 
 
-1.	 Calculez la moyenne pondérée des notes: 18 18 12 11 7 avec leur coefficients respectif: 6 2 4 4 1
+1.	 Calculez la moyenne pondérée des notes: ```18 18 12 11 7``` avec leur coefficients respectif: ```6 2 4 4 1```
 
 
   ```R
