@@ -34,6 +34,7 @@
   tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
   tableau2=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
   ```
+
 ## - Traitement des sorties avec R
 
 + **Pour afficher votre résultat utilisez la fonciton ```R cat(arg)``` et non la fonction ```R print(arg)```.**
