@@ -24,8 +24,8 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 + **Sortie**:
 
   ```R
-  res=intToUtf8(mon_vecteur)
-  cat(res)
+  options("scipen"=100, "digits"=4)
+  cat(vote_resultat)
   ```
 
 ## - Exercice
