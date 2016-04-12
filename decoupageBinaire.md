@@ -15,7 +15,7 @@ output -> [1] "GOOD"
   
 ## - Exercices
   
-+ **1) Ecrire sur une feuille la représentation décimal, héxadécimal ou octal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii le caractère correspondant.**
++ **1) Ecrire sur une feuille la représentation décimal, héxadécimal ou octal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant.**
   
   ####  Exemple:
 
@@ -41,3 +41,7 @@ output -> [1] "GOOD"
 ```R
       output -> [1] "(z*a)"
 ```
+
+
+ ### Table Ascii:
+ ![Alt text](/ressources/exemple2MuxArray.PNG)
