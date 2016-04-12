@@ -29,7 +29,7 @@ Vous afficherez le tableau contenant le resultat de la maniere suivante :
 cat(tableau_resultat);
 ```
 
-Vous trouverez un fichier de test [via ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/muxarrayexo2.in "test")
+Vous trouverez un fichier de test [sur ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/muxarrayexo2.in "test") , cliquez droit dessus et enregistrez la cible sur le dossier d'où vous travaillez votre solution.
 
 <br/><br/>
 + 3) **MUXA3 - Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les élements pairs du tableau TableauRes.
