@@ -27,7 +27,7 @@ Si vous ne l'utiliser pas, votre résultat sera faussé.
 
 
 
-+ **Pour recuperer les deux tableaux du probleme MuxArrray dans l'entrée standard:**
++ **Pour récuperer les deux tableaux du problème MuxArrray dans l'entrée standard:**
 ```R
 flux=file("stdin");
 open(f , open="r", what = "character");
