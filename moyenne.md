@@ -1,9 +1,9 @@
 # 	Exercice Moyenne Pondérée
 
-### ENNONCÉ
+### ENONCÉ
 
 
-Calculer la moyenne pondéré à partir deux listes, une contenant les notes et une les coefficients de celles-ci. 
+Calculer la moyenne pondéré à partir de deux listes, une contenant les notes et une les coefficients.
   
   
   
@@ -21,7 +21,7 @@ Calculer la moyenne pondéré à partir deux listes, une contenant les notes et 
 ### QUESTIONS
 
 
-1.	 Calculez la moyenne pondérée des notes: 18 18 12 11 7 avec leur coefficients respectives: 6 2 4 4 1
+1.	 Calculez la moyenne pondérée des notes: 18 18 12 11 7 avec leur coefficients respectif: 6 2 4 4 1
 
 
   ```R
@@ -29,7 +29,7 @@ Calculer la moyenne pondéré à partir deux listes, une contenant les notes et 
 	print("mon resultat") 
  ```
  
-2.	 A partir du squelette suivant, calcule la moyenne non pondérées d'une liste de notes récupérée en entré.
+2.	 A partir du squelette suivant, calculez la moyenne non pondérées d'une liste de notes récupérée en entrée.
 
 
 
@@ -60,7 +60,7 @@ Calculer la moyenne pondéré à partir deux listes, une contenant les notes et 
    ```
    
    
-3.	 A partir du squelette suivant, calculez la moyenne pondérée d'une suite de notes, les note se trouvant sur la première ligne de l'entrée et leur coefficient respectives se trouvant sur la deuxième.
+3.	 A partir du squelette suivant, calculez la moyenne pondérée d'une suite de notes, les notes se trouvant sur la première ligne de l'entrée et leur coefficient respectif se trouvant sur la deuxième ligne.
 
   ```R
       #### Recuperation de la liste des notes
