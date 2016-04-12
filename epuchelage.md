@@ -17,7 +17,7 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 ## - Exercice
 
 
-+ 1) **Envoyer le résultat pour n = 685415111.**
++ **1) Envoyer le résultat pour n = 685415111.**
 
 
 ```R
@@ -25,7 +25,7 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
 	print("mon resultat") 
 ```
  
-+ 2) **Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
++ **2) Ecrire le code R qui renvoie M à partir du N récupérer en entrée.**
 
 ```R
 	#### Recuperation du nombre N en entrée
@@ -45,7 +45,7 @@ Le but est de compter le nombre d'occurences des chiffres de l'ensemble [1,9] qu
    
 ```
    
-+ 3) **Reprendre le code de la question 2, renvoyez M maintenant en rajoutant aussi le nombre d'occurance du chiffre 0. M doit etre construire cette ordre numérique 1,2,..,9,0.**
++ **3) Reprendre le code de la question 2, renvoyez M maintenant en rajoutant aussi le nombre d'occurance du chiffre 0. M doit etre construire cette ordre numérique 1,2,..,9,0.**
 
 #### Exemple:
 ```R	
