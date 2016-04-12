@@ -27,7 +27,7 @@ Il ne vous restera plus que à cliquer sur **Submit**
 
 Il est imprudent de soumettre une solution non testée , un guide décrit ci-dessous la façon de faire pour tester votre production.
 
-> **Comment tester **
+> **Comment tester ?**
 > 
 > -  Récupérez un fichier test proposé dans l'énoncé et déposez le sur votre bureau
 > - Ouvrez un terminal , et déplacez vous sur le répertoire où est posé votre solution exemple , si votre solution se trouve sur votre Bureau entrez ceci :  <br/>  ```cd ~/Bureau```
