@@ -67,6 +67,10 @@ output -> GOOD
       input -> 1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
                6 13 19 26 32
 ```
+```R
+      output -> (z*a)
+```
+
 + ***Détails:***
 ```R
                   6               13            19              26            32
@@ -81,9 +85,7 @@ output -> GOOD
           (               z             *               a             )
 ```
 
-```R
-      output -> (z*a)
-```
+
 
 
 ### Table Ascii:
