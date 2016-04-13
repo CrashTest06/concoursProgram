@@ -32,12 +32,14 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 + **Entrée**:
   + **Exercice 2**
      Sur la première ligne du fichier d'entrée vous trouverez la liste L1 
-     et sur la deuxième ligne L2. 
+     et sur la deuxième ligne L2.
+
     ```R
      flux=file("stdin","r")s
      L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
      L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
     ```
+    
   + **Exercice 3**
      Sur la première ligne du fichier d'entrée vous trouverez la liste L1 
      et sur la deuxième ligne L2.
