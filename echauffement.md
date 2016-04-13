@@ -1,4 +1,4 @@
-# Fonction carré
+# Equation du second degrès
 
 Réaliser un simple programme realisant la fonction ax² + bx + c
 
