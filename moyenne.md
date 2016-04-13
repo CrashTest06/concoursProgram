@@ -27,12 +27,12 @@ Output:
 ### QUESTIONS
 
 
-1.	 Calculez la moyenne pondérée des notes: ```18 18 12 11 7``` avec leur coefficients respectif: ```6 2 4 4 1```
+1.	 Calculez la moyenne pondérée des notes: ```18 18 12 11 7``` avec leur coefficient respectif: ```6 2 4 4 1```
 
 
   ```R
 	#### Envoyer le resultat
-	print("mon resultat") 
+	cat("mon resultat") 
  ```
  
 2.	 A partir du squelette suivant, produisez un code en R calculant la moyenne **non pondérée** d'une liste de notes récupérée en entrée.
