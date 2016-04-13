@@ -14,7 +14,7 @@ output -> GOOD
 
 ## - Entrée & sortie
 
-+ **Entrée**:
++ **Entrées**:
   + **Exercice 2**
   
     ```R
