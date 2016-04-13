@@ -10,7 +10,7 @@
 + [Problème muxArray](https://github.com/GRnice/concoursProgram/blob/master/MuxArray.md "MuxArray")
 + [Problème des moyennes](https://github.com/GRnice/concoursProgram/blob/master/moyenne.md "Moyennes")
 + [Problème de l'épluchage](https://github.com/GRnice/concoursProgram/blob/master/epuchelage.md "Epluchage")
-+ [Problème de permutations](https://github.com/GRnice/concoursProgram/blob/master/permut.md "Permutations")
++ [Problème de permutations](https://github.com/GRnice/concoursProgram/blob/master/permutation.md "Permutations")
 + [Problème Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast")
 
 
