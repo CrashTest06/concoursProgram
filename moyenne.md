@@ -44,7 +44,7 @@
   
 + **1) Calculer à la main la moyenne pondérée. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
-  ######  Exemple:
+  #### Exemple:
   ###input
 	```R
    12 15 6 4
@@ -59,7 +59,7 @@
    9.5 
 	```
  ***A vous de jouer avec cet input:***
-       ###input
+    ###input
 	```R
    15 13 12 12
    2 4 1 3
