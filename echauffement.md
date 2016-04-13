@@ -12,7 +12,7 @@ output : ```14``` => (2 * 1)² + (4 * 1) + 6
 
 ## - Entrée & Sortie
 
-+ Entrée
++ *Entrée*
 
 Pour récuperer les paramètres , employez ces lignes de code au debut de votre solution
 ```R
@@ -24,7 +24,7 @@ b <- listeParametres[3];
 c <- listeParametres[4];
 ```
 
-+ Sortie
++ *Sortie*
 
 Vous afficherez le résultat de votre solution avec l'instruction ``` cat ```
 ```R
