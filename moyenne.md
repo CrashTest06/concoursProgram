@@ -98,11 +98,14 @@
 ######Exemple:
 
     ###input
+    
     ```R
    15 10 20 5 2 10
    42 8 1 6 5 3 
     ```
+    
     ###output
+    
     ```R
    8
     ```
@@ -111,13 +114,10 @@
     # On recupere deux tableaux d'integer en entrée
     flux=file("stdin","r")
     notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-    coeff=scan(file=flux, what=integer(), nline=2, quiet=TRUE)  
-    
-	#### CODE R
-   
-	#### Envoyer le resultat
+    coeff=scan(file=flux, what=integer(), nline=2, quiet=TRUE) 
+    ##CODE R
+    #### Envoyer le resultat
     cat(sprintf("%f","mon resultat"));
-   
-	```
+```
 
 
