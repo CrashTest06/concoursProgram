@@ -59,6 +59,7 @@
    9.5 
 	```
  ***A vous de jouer avec cet input:***
+        ###input
 	```R
    15 13 12 12
    2 4 1 3
@@ -93,7 +94,7 @@
 	 Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
      
      ######  Exemple:
-     ###input
+    ###input
     ```R
    15 10 20 5 2 10
    42 8 1 6 5 3 
