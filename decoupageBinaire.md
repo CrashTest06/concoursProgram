@@ -67,6 +67,9 @@ output -> GOOD
 ```R
                   6               13            19              26            32
       1 0 1 0 0 0 | 1 1 1 1 0 1 0 | 1 0 1 0 1 0 | 1 1 0 0 0 0 1 | 1 0 1 0 0 1 |
+            40            122           42              97            41
+    intToUtf8(40)  intToUtf8(122)  intToUtf8(42)  intToUtf8(97)  intToUtf8(41)
+          (               z             *               a             )
 ```
 
 ```R
