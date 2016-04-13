@@ -69,7 +69,7 @@ Output:
 
   ```R
       #### Recuperation de la liste des notes
-    flux=file("stdin","r")s
+    flux=file("stdin","r")
     notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
     coeff=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
 
