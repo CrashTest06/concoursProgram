@@ -75,7 +75,7 @@ car il y a **deux** occurences du nombre 1 , **trois** occurences de 2 , **deux*
    
 ```
 <br/><br/><br/>   
-+ **3) Reprendre le code de la question 2, renvoyez M maintenant en rajoutant aussi le nombre d'occurance du chiffre 0. M doit etre construire cette ordre numérique 1,2,..,9,0.**
++ **3) Reprendre le code de la question 2, renvoyez M en rajoutant cette fois-ci le nombre d'occurences du chiffre 0. M doit etre construit dans cet ordre numérique 1,2,..,9,0.**
 
 #### Exemple:
 ```R	
