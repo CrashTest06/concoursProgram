@@ -42,7 +42,7 @@ Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nom
 
 ## TEST -  Life, the Universe, and Everything
 
-Écrivez le programme R.
+Écrivez le programme en R.
 
 ### Conseils et éléments de code
 
