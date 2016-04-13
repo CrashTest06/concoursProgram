@@ -50,3 +50,24 @@ c <- listeParametres[4];
 ##ICI VOTRE CODE
 
 cat(votre_resultat)
+```
+
++ 2) **Produisez un programme en R calculant le discrimant**
+
+> - **indication**
+> - la formule du discrimant : b² - (4*a*c)
+
+Voici une amorce pour votre solution:
+
+```R
+flux=file("stdin","r");
+listeParametres=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+a <- listeParametres[1];
+b <- listeParametres[2];
+c <- listeParametres[3];
+
+##ICI VOTRE CODE
+
+cat(votre_resultat)
+```
+
