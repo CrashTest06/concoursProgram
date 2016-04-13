@@ -95,29 +95,29 @@
 + **3) Calculez maintenant la moyenne pondérée: 
 	 Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
      
-######Exemple:
+######Exemple -
 
-    ###input
+#######Input
     
-    ```R
-   15 10 20 5 2 10
-   42 8 1 6 5 3 
-    ```
+
+```R
+
+15 10 20 5 2 10
+42 8 1 6 5 3 
+```
     
-    ###output
-    
-    ```R
+```R
    8
-    ```
+```
 
-    ```R
-    # On recupere deux tableaux d'integer en entrée
-    flux=file("stdin","r")
-    notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-    coeff=scan(file=flux, what=integer(), nline=2, quiet=TRUE) 
-    ##CODE R
-    #### Envoyer le resultat
-    cat(sprintf("%f","mon resultat"));
+```R
+# On recupere deux tableaux d'integer en entrée
+flux=file("stdin","r")
+notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+coeff=scan(file=flux, what=integer(), nline=2, quiet=TRUE) 
+##CODE R
+#### Envoyer le resultat
+cat(sprintf("%f","mon resultat"));
 ```
 
 
