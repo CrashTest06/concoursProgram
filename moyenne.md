@@ -65,7 +65,7 @@ Output:
    ```
    
    
-3.	 A partir du squelette suivant, produisez un code en R calculant la moyenne pondérée d'une suite de notes, les notes se trouvant sur la première ligne de l'entrée et leur coefficient respectif se trouvant sur la deuxième ligne.
+3.	 A partir du squelette suivant, produisez un code en R calculant la moyenne **pondérée** d'une suite de notes, les notes se trouvant sur la première ligne de l'entrée et leur coefficient respectif se trouvant sur la deuxième ligne.
 
   ```R
       #### Recuperation de la liste des notes
