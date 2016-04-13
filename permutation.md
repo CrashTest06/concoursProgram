@@ -54,7 +54,9 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 + **Sortie**:
 
     ```R
-    cat(votre_resultat)
+    # TRUE : si L1 est une permutation inverse de L2
+    # FALSE sinon
+    cat(votre_resultat) # TRUE ou FALSE
     ```
 
 ## - Exercice
