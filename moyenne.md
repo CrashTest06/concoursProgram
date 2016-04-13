@@ -57,11 +57,10 @@ Output:
     #### CODE
 
     #### Affichage non scientifique 
-    #### /!\ A UTILISER
-    options("scipen"=100, "digits"=4)
 
-    #### Envoyer le resultat
-    print("mon resultat")
+    
+    #### Envoyer le resultat de cette maniere
+    cat(sprintf("%f",mon_resultat))
    
    ```
    
