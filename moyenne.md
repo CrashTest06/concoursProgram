@@ -47,16 +47,16 @@
 + **1) Calculer à la main la moyenne pondérée. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
   #### Exemple:
-  ###input
+  #####input
 	```R
    12 15 6 4
    2 4 1 3
 	```
-    ###code R
+  #####code R
 	```R
    cat(sprintf("%f",9.5));
 	```
-    ###output
+  #####output
 	```R
    9.5 
 	```
