@@ -92,13 +92,12 @@
    
 	```
 
-+ **3) Calculez maintenant la moyenne pondérée: 
-	 Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
-     
-######Exemple -
++ **3) Calculez maintenant la moyenne pondérée: Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
+    
+######Exemple
 
 
-#######Input
+######Input
     
 
 ```R
@@ -107,7 +106,7 @@
 42 8 1 6 5 3 
 ```
 
-#######Output  
+######Output  
 ```R
    8.000000
 ```
