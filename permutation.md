@@ -76,7 +76,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
    FALSE 
     ```
      ***A vous de jouer avec cet input:***
-     ###input
+    ###input
     ```R
    3 8 5 10 9 4 6 1 7 2
    8 10 1 6 3 2 9 7 5 4
