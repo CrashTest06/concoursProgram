@@ -38,7 +38,7 @@
 
 ## - Traitement des sorties avec R
 
-+ **Pour afficher votre résultat utilisez la fonciton ```R cat(arg)``` et non la fonction ```R print(arg)```.**
++ **Pour afficher votre résultat utilisez la fonction ```R cat(arg)``` et non la fonction ```R print(arg)```.**
   ```R
     res="test"
     cat(res)
