@@ -31,13 +31,12 @@ output -> GOOD
 + **Sortie**:
 
   ```R
-  res=intToUtf8(mon_vecteur)
-  cat(res)
+  cat(intToUtf8(mon_vecteur))
   ```
   
 ## - Exercices
   
-+ **1) Calculer à la main la représentation décimal ou héxadécimal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
++ **1) Calculer à la main la représentation décimal ou héxadécimal du binaire que vous avez coupé en morceau de 8 et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant ou bien utiliser la fonction ```intToUtf8(arg)```de R. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
   ####  Exemple:
 
@@ -55,9 +54,9 @@ output -> GOOD
       input  -> 0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
 ```
 
-+ **2) Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère ascii en utilisant:```intToUtf8(arg)```**
++ **2) Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère depuis le nombre décimal que vous trouvez depuis le binaire en utilisant:```intToUtf8(arg)```**
 
-+ **3) Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entiers positifs. Ces entiers vont vous permettre de découper le binaire.En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de tailles indiqués par la suite d'entiers présents sur la deuxième ligne du fichier.Ecrivez un code R, qui découpe et traduit en ascii la suite de binaire en fonction des differentes tailles de decoupes**
++ **3) Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entiers positifs. Ces entiers vont vous permettre de découper le binaire. En effet, vous ne découperez plus par morceau de 8, mais par des morceaux de tailles indiqués par la suite d'entiers présents sur la deuxième ligne du fichier.Ecrivez un code R, qui découpe et obtient le caractère correspondant à la suite de binaire en fonction des differentes tailles de decoupes**
   #### Exemple:
 
 ```R
