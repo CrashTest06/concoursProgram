@@ -19,10 +19,12 @@
 + **Entrée**:
   + **Exercice 2**
      Sur la première ligne du fichier d'entrée vous trouverez la liste des notes   
+
     ```R
      flux=file("stdin","r")
      notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
     ```
+    
   + **Exercice 3**
      Sur la première ligne du fichier d'entrée vous trouverez la liste des notes 
      et sur la deuxième ligne celle des coefficients.
