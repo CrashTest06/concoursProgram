@@ -91,10 +91,10 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
 	   	1100011192229
 	    	```
 	    	
-	+ **Output**
-		```R
-		532
-		```
+			+ **Output**
+				```R
+				532
+				```
 
 
 
