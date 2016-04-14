@@ -1,6 +1,9 @@
-# - MuxArray
+# MuxArray
 
-Ce problème demande la réalisation du produit de deux tableaux passés dans l'entrée standard, de la manière suivante:
+Ce problème demande la réalisation du produit de deux tableaux passés dans l'entrée standard:
+
+
++ Exemple
 ![Alt text](/ressources/exemple2MuxArray.PNG)
 
 <br/><br/><br/><br/><br/><br/>
