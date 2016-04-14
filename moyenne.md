@@ -74,13 +74,13 @@
    		```
 
 	+ ***A vous de jouer avec cet input***
- 	
-		+ **Input**
+		
+		+ *Input**
 		
 			```R
 			15 13 12 12
 			2 4 1 3
-			```
+			`````
 
 + **2) MOY2 -  Pour commencer vous allez calculer la moyenne non pondérée:
 	Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne non pondérée à partir de la liste de notes récupérée en entrée .**
