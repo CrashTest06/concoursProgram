@@ -101,7 +101,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 		
 			```R
 			15 16 12 9 12 14
-    			14 12 9 12 16 15
+    		14 12 9 12 16 15
 			```
 
 		+ **Output**
