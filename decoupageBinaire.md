@@ -1,4 +1,4 @@
-# - Découpage binaire
+# Découpage binaire
 
   Déchiffrez le message qui se cache derriere cette suite de 0 et 1...
   
@@ -15,9 +15,9 @@
   GOOD
   ```
 
-## - Entrée & sortie
+## Entrée & sortie
 
-+ **Entrées**:
++ **Entrées**
   + **Exercice 2**
   
     ```R
@@ -31,13 +31,13 @@
     suiteBinaire=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
     nombrePourDecouper=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
     ```
-+ **Sortie**:
++ **Sortie**
 
   ```R
   cat(intToUtf8(mon_vecteur))
   ```
   
-## - Exercices
+## Exercices
   
 + **1) SAC1 - Calculer à la main la représentation décimal du binaire que vous avez coupé en morceaux de 8 chiffres et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant à chaque morceau ou bien utiliser la fonction ```intToUtf8(arg)```de R. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
