@@ -5,23 +5,23 @@ Plus précisément, vous devez réécrire des petits nombres lus depuis l'entré
 Vous arrêterez ce traitement à la lecture du nombre 42.
 Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 
-### Exemple
++ **Exemple**
 
-#### Input
-```
-1
-2
-88
-42
-99
-```
+  + **Input**
+  ```
+  1
+  2
+  88
+  42
+  99
+  ```
 
-#### Output
-```
-1
-2
-88
-```
+  + **Output**
+  ```
+  1
+  2
+  88
+  ```
 
 ## PTEST - Question préliminaire
 
@@ -62,14 +62,14 @@ cat(' ');
 }
 ```
 
-##Exemple:
-###- Input:
++ **Exemple**
+  + **Input**
+    ```
+    1 2 88 42 99
+    ```
+  + **Output**
   ```
-  1 2 88 42 99
-  ```
-###- Output:
-```
-  1 2 88 
+    1 2 88 
   ```
   
   > **Apres le nombre 88 il y a un espace !!**
@@ -78,19 +78,19 @@ cat(' ');
 
 Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombres suivants est égale à 42.
 
-### Exemple
++ **Exemple**
 
-#### Input
-
-```
-1 3 5 7 1 1 40 9 8
-```
-
-#### Output
-
-```
-1 3 5 7
-```
+  + **Input**
+  
+  ```
+  1 3 5 7 1 1 40 9 8
+  ```
+  
+  + **Output**
+  
+  ```
+  1 3 5 7
+  ```
 
 > **Apres le chiffre 7 il y a un espace !!**
 
