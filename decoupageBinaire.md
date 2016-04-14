@@ -71,12 +71,12 @@
       output ->        G               O               O               D
     ```
   
-    + ***A vous de jouer avec cet input:***
-      + **Input**
-        
-        ```R
-        0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
-        ```
+  + ***A vous de jouer avec cet input:***
+    + **Input**
+     
+      ```R
+      0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
+      ```
 
 + **2) SAC2 - Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère depuis le nombre décimal que vous trouvez depuis le binaire en utilisant:```intToUtf8(arg)```**
 
