@@ -35,7 +35,7 @@ cat(resultat);
 
 ## - Exercices
 
-+ 1) **Réaliser un programme en R résolvant l'équation en fonction des paramètres mentionnés plus haut.**
++ 1) **EQUA-1 - Réaliser un programme en R résolvant l'équation en fonction des paramètres mentionnés plus haut.**
 
 Voici une amorce pour votre solution:
 
@@ -52,7 +52,7 @@ c <- listeParametres[4];
 cat(votre_resultat)
 ```
 
-+ 2) **Produisez un programme en R calculant le discrimant de l'équation du second degrès**
++ 2) **EQUA-2 - Produisez un programme en R calculant le discrimant de l'équation du second degrès**
 
 > - **indication**
 > - la formule du discrimant : b² - (4*a*c)
