@@ -63,8 +63,9 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
 	   1531 
 	    ```
 	 
-+ ***A vous de jouer avec cet input:***
++ ***A vous de jouer avec cet input***
      + **Input**
+     
 	    ```R
 	   685415111
 	    ```
