@@ -95,28 +95,21 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 	Pour commencer ecrivez un code R à partir du squelette suivant, qui vérifie si la liste L1 est la liste renversée de la liste L2 toute deux récupérées en entrée.
     Renvoyez ```TRUE``` ou ```FALSE```**
 
-    ###  Exemple:
-    ###input
-    ```R
-    15 16 12 9 12 14
-    14 12 9 12 16 15
-    ```
-    ###output
-    ```R
-    TRUE
-    ```
+	+ **Exemple**
 
-    ```R
-    # On recupere un tableau de caracteres en entrée
-    flux=file("stdin","r")s
-    L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-    L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
-    
-    #### CODE R
-    
-    #### Envoyer le resultat
-    cat(res)
-     ```
+		+ **Input**
+		
+			```R
+			15 16 12 9 12 14
+    			14 12 9 12 16 15
+			```
+
+		+ **Output**
+		
+			```R
+			TRUE 
+			 ```
+
 
 + **3)  PERMUT-3 - Permutation inversée:
 	 Ecrivez le code R à partir du squelette précédent, qui verifie si la liste L1 est la liste L2 par permutation inversée, les deux listes sont récupérées en entrée.
