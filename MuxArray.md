@@ -36,18 +36,22 @@ cat("4 6 12 36 78 28");
 ```
 
 <br/><br/>
-+ 2) **MUXA2 - Ecrivez un algorithme en R prenant en entrée les deux tableaux , et affichant le résultat.
++ **2) MUXA2 - Ecrivez un algorithme en R prenant en entrée les deux tableaux , et affichant le résultat.
 On considere que les tableaux passés en parametre ne sont jamais vides et ont strictement la meme taille.**
 
   + **Exemple**
-    
     + **Input**
-
-```
-1 2 3 4
-4 3 2 1
-```
+      
+      ```R
+      1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
+      6 13 19 26 32
+      ```
+      
     + **Output**
+      ```R
+            (z*a)
+      ```
+
 
 ```
 1 4 9 16
