@@ -11,7 +11,7 @@ Ce problème demande la réalisation du produit de deux tableaux passés dans l'
 
 ###Entrée & sortie
 
-+ Entrées
++ **Entrées pour les exercices MUXA2 et MUXA3**
 
 ```R
 flux=file("stdin","r")
