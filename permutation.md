@@ -115,16 +115,17 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 	 Ecrivez le code R à partir du squelette précédent, qui verifie si la liste L1 est la liste L2 par permutation inversée, les deux listes sont récupérées en entrée.
      Renvoyez ```TRUE``` ou ```FALSE```**
 
-    ### Exemple:
-    ###input
-    ```R	
-   2 3 4 5 1 
-   5 1 2 3 4 
-    ```
-    ###output
-    ```R
-   TRUE
-    ```
+	+ **Exemple**
 
+		+ **Input**
+		
+			```R
+			2 3 4 5 1 
+   		5 1 2 3 4
+			```
 
-
+		+ **Output**
+		
+			```R
+			TRUE 
+			 ```
