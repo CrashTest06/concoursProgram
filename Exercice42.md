@@ -39,7 +39,9 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
   cat(le_chiffre_a_afficher)
   ```  
 
-## PTEST - Question préliminaire
+## Exercices
+
++ **1) PTEST - Question préliminaire**
 
 Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nombres :
   ```
@@ -56,43 +58,43 @@ Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nom
   ```
 
 
-## TEST -  Life, the Universe, and Everything
++ **2) TEST -  Life, the Universe, and Everything**
 
 Écrivez le programme en R.
 
 
-+ **Exemple**
-  + **Input**
-  
-    ```
-    1 2 88 42 99
-    ```
-  + **Output**
-  
-    ```
-    1 2 88 
-    ```
-  
-  > **Apres le nombre 88 il y a un espace !!**
+  + **Exemple**
+    + **Input**
+    
+      ```
+      1 2 88 42 99
+      ```
+    + **Output**
+    
+      ```
+      1 2 88 
+      ```
+    
+    > **Apres le nombre 88 il y a un espace !!**
 
-## STEST - Sum of Life, the Universe, and Everything
++ **3) STEST - Sum of Life, the Universe, and Everything**
 
-Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombres suivants est égale à 42.
-
-+ **Exemple**
-
-  + **Input**
+  Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombres suivants est égale à 42.
   
-    ```
-    1 3 5 7 1 1 40 9 8
-    ```
+  + **Exemple**
   
-  + **Output**
+    + **Input**
+    
+      ```
+      1 3 5 7 1 1 40 9 8
+      ```
+    
+    + **Output**
+    
+      ```
+      1 3 5 7
+      ```
   
-    ```
-    1 3 5 7
-    ```
-
-> **Apres le chiffre 7 il y a un espace !!**
-
-Utilisez le meme code pour récuperer la suite de nombres décrit au deuxieme exercice.
+  > **Apres le chiffre 7 il y a un espace !!**
+  
+  Utilisez le meme code pour récuperer la suite de nombres décrit au deuxieme exercice.
