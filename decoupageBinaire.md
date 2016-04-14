@@ -76,10 +76,12 @@
 + **3) SAC3 - Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entiers positifs. Ces entiers vont vous permettre de découper le binaire. En effet, vous ne découperez plus par morceau de 8, mais vous découperez le binaire aux indices (inclus) indiqués par les entiers présents sur la  deuxième ligne de l'entrée standard .Ecrivez un code R, qui découpe et obtient le caractère correspondant à la suite de binaire en fonction des differentes tailles de decoupes**
 + **Exemple**
   + **Input**
+  
     ```R
           1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
           6 13 19 26 32
     ```
+    
   + **Output**
     ```R
           (z*a)
