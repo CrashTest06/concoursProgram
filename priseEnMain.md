@@ -13,8 +13,7 @@ Nommé pc2team par ses concepteurs , cet outil vous permettra de soumettre vos p
 
 > **Comment lancer pc2team ?**
 
-> - Ouvrez un terminal et entrez ```export PATH=$PATH:/usr/local/pc2Client/bin ```
-> - Puis ```pc2team --ini /usr/local/pc2Client/bin/pc2v9.ini```
+> - Ouvrez un terminal et entrez ```my_pc2team.sh```
 > - Une fenêtre vous invitera à entrez votre identifiant et votre mot de passe communiqués en début de séance.
 
 --------
