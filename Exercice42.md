@@ -36,24 +36,24 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 + **Sortie**
 
   ```R
-  cat(intToUtf8(mon_vecteur))
+  cat(le_chiffre_a_afficher)
   ```  
 
 ## PTEST - Question préliminaire
 
 Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nombres :
-```
-1
-2
-8
-41
-20
-42
-1
-9
-5
-3
-```
+  ```
+  1
+  2
+  8
+  41
+  20
+  42
+  1
+  9
+  5
+  3
+  ```
 
 
 ## TEST -  Life, the Universe, and Everything
@@ -70,7 +70,7 @@ Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nom
   + **Output**
   
     ```
-      1 2 88 
+    1 2 88 
     ```
   
   > **Apres le nombre 88 il y a un espace !!**
