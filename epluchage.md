@@ -42,7 +42,7 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
 ## - Exercice
 
 
-+ **1) Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
++ **1) EPLUCHE1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
 ##### Exemple
 
     ###input
@@ -64,7 +64,7 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
    685415111
     ```
  
-+ **2) Ecrire le code R qui renvoie M à partir du N récupéré en entrée à partir du squelette suivant.**
++ **2) EPLUCHE2 - Ecrire le code R qui renvoie M à partir du N récupéré en entrée à partir du squelette suivant.**
 
 	```R
     # On recupere un tableau de caracteres en entrée
@@ -78,7 +78,7 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
    
 	```
    
-+ **3) Reprendre le code de la question 2, renvoyez M maintenant en excluant cette fois-ci le nombre d'occurence du chiffre 0.**
++ **3) EPLUCHE3 - Reprendre le code de la question 2, renvoyez M maintenant en excluant cette fois-ci le nombre d'occurence du chiffre 0.**
 
     ##### Exemple:
     ###input
