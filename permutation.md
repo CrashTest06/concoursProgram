@@ -5,29 +5,27 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 
 
 
++ **Exemple**:
+
+  + **Input**
   
+     ```R
+     2 3 4 5 1 
+     5 1 2 3 4
+     ```
+    
+  + **Output**
   
-  
-## - Exemple
-
-
-###input
-```
- 2 3 4 5 1 
- 5 1 2 3 4 
-```
-###output
-
-
-```
- TRUE
-```
+     ```R
+     TRUE
+     ```
+ 
 *La ligne 1 correspond a la liste L1*
 *La ligne 2 correspond a la liste L2*
 
 
 
-## - Entrée & sortie
+## Entrée & sortie
 
 + **Entrée**:
   + **Exercice 2**
@@ -63,28 +61,35 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 
 
 + **1) PERMUT-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
-##### Exemple
+	+ **Exemple**
 
-    ###input
-
-    ```R
-   1 4 5 2 3 6
-   1 2 3 4 5 6
-    ```
-    ###code R    
-    ```R
-   cat(FALSE) 
-    ```
-    ###output
-    ```R
-   FALSE 
-    ```
-     ***A vous de jouer avec cet input:***
-    ###input
-    ```R
-   3 8 5 10 9 4 6 1 7 2
-   8 10 1 6 3 2 9 7 5 4
-    ```
+		+ **Input**
+		
+			```R
+			1 4 5 2 3 6
+			1 2 3 4 5 6
+			```
+		
+		+ **Code R**    
+		
+			```R
+			cat(FALSE) 
+			
+			```
+		+ **Output**
+		
+			```R
+			FALSE 
+			 ```
+			 
+	+ ***A vous de jouer avec cet input***
+		
+		+ **Input**
+			
+			```R
+			3 8 5 10 9 4 6 1 7 2
+			8 10 1 6 3 2 9 7 5 4
+			```
  
 + **2) PERMUT-2 - Permutation renversée:
 	Pour commencer ecrivez un code R à partir du squelette suivant, qui vérifie si la liste L1 est la liste renversée de la liste L2 toute deux récupérées en entrée.
