@@ -43,24 +43,24 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 
 + **1) PTEST - Question préliminaire**
 
-Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nombres :
-  ```
-  1
-  2
-  8
-  41
-  20
-  42
-  1
-  9
-  5
-  3
-  ```
+  Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nombres :
+    ```
+    1
+    2
+    8
+    41
+    20
+    42
+    1
+    9
+    5
+    3
+    ```
 
 
 + **2) TEST -  Life, the Universe, and Everything**
 
-Écrivez le programme en R.
+  Écrivez le programme en R.
 
 
   + **Exemple**
