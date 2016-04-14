@@ -8,7 +8,7 @@
 
   + **Input**
   ```R
-   0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
+  0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
   ```
   + **Output**
   ```R
@@ -26,7 +26,7 @@
     ```
   + **Exercice 3**
   
-     ```R
+    ```R
     flux=file("stdin","r");
     suiteBinaire=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
     nombrePourDecouper=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
@@ -44,17 +44,23 @@
 + **Exemple**
   
   + **Input**
-  ```R
-      0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
-  ```
+    
+    ```R
+    0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
+    ```
+    
   + **Code R**
-  ```R
-      cat("GOOD")
-  ```
+  
+    ```R
+    cat("GOOD")
+    ```
+    
   + **Output**
-  ```R
-      GOOD
-  ```
+  
+    ```R
+    GOOD
+    ```
+  
 + ***Détails:***
   
   ```R
@@ -67,19 +73,20 @@
 
   + ***A vous de jouer avec cet input:***
     + **Input**
-    ```R
-        0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
-    ```
+      
+      ```R
+      0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
+      ```
 
 + **2) SAC2 - Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère depuis le nombre décimal que vous trouvez depuis le binaire en utilisant:```intToUtf8(arg)```**
 
 + **3) SAC3 - Nouveauté: le fichier contient désormais sur la deuxième ligne un suite d'entiers positifs. Ces entiers vont vous permettre de découper le binaire. En effet, vous ne découperez plus par morceau de 8, mais vous découperez le binaire aux indices (inclus) indiqués par les entiers présents sur la  deuxième ligne de l'entrée standard .Ecrivez un code R, qui découpe et obtient le caractère correspondant à la suite de binaire en fonction des differentes tailles de decoupes**
 + **Exemple**
   + **Input**
-  
+    
     ```R
-          1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
-          6 13 19 26 32
+    1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
+    6 13 19 26 32
     ```
     
   + **Output**
@@ -88,7 +95,7 @@
     ```
 
 + ***Détails:***
-
+  
   ```R
                             6               13            19              26            32
                |<----6----->|
