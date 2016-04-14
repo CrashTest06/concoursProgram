@@ -36,7 +36,7 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 + **Sortie**
 
   ```R
-  cat(le_chiffre_a_afficher)
+  cat(le_chiffre_a_afficher,'\n')
   ```  
 
 ## Exercices
@@ -72,10 +72,11 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     + **Output**
     
       ```
-      1 2 88 
+      1
+      2
+      88
+      
       ```
-    
-    > **Apres le nombre 88 il y a un espace !!**
 
 + **3) STEST - Sum of Life, the Universe, and Everything**
 
@@ -92,9 +93,9 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     + **Output**
     
       ```
-      1 3 5 7
+      1
+      3
+      5
+      7
+      
       ```
-  
-  > **Apres le chiffre 7 il y a un espace !!**
-  
-  Utilisez le meme code pour récuperer la suite de nombres décrit au deuxieme exercice.
