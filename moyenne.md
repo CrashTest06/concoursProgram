@@ -92,13 +92,13 @@
 		+ **Input**
 			
 			```R
-		  10 12 8
+		  	10 12 8
 			```
 			
 		+ **Output**
 		
 			```R
-   		10.000000
+   			10.000000
 			```
 
 
@@ -115,17 +115,6 @@
 		+ **Output**
 			
 			```R
-   		8.000000
+   			8.000000
 			```
-
-```R
-# On recupere deux tableaux d'integer en entrée
-flux=file("stdin","r")
-notes=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-coeff=scan(file=flux, what=integer(), nline=2, quiet=TRUE) 
-##CODE R
-#### Envoyer le resultat
-cat(sprintf("%f","mon resultat"));
-```
-
 
