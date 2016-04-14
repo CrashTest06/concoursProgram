@@ -4,13 +4,16 @@
   
   Sur la première ligne du fichier vous trouverez le nombre de binaire à couper.
   A savoir que pour tous les exercices les fichiers d'entrées seront bien formés.
-####  Exemple:
-```R
-input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
-```
-```R
-output -> GOOD
-```
++ **Exemple**
+
+  + **Input**
+  ```R
+   0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
+  ```
+  + **Output**
+  ```R
+  GOOD
+  ```
 
 ## - Entrée & sortie
 
@@ -38,17 +41,20 @@ output -> GOOD
   
 + **1) SAC1 - Calculer à la main la représentation décimal du binaire que vous avez coupé en morceaux de 8 chiffres et trouvez dans la table Ascii (que vous trouverez au bas de ce document) le caractère correspondant à chaque morceau ou bien utiliser la fonction ```intToUtf8(arg)```de R. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
-  ####  Exemple:
-
-```R
-    input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
-```
-```R
-    Code R -> cat("GOOD")
-```
-```R
-    output -> GOOD
-```
++ **Exemple**
+  
+  + **Input**
+  ```R
+      0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
+  ```
+  + **Code R**
+  ```R
+      cat("GOOD")
+  ```
+  + **Output**
+  ```R
+      GOOD
+  ```
   + ***Détails:***
   
   ```R
@@ -60,9 +66,10 @@ output -> GOOD
   ```
 
   + ***A vous de jouer avec cet input:***
-```R
-      input  -> 0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
-```
+    + **Input**
+    ```R
+        0 1 0 0 1 1 1 1 0 1 0 0 1 0 1 1
+    ```
 
 + **2) SAC2 - Faites la même chose que pour l'exercice n°1, mais en lisant un fichier avec R. Obtenez le caractère depuis le nombre décimal que vous trouvez depuis le binaire en utilisant:```intToUtf8(arg)```**
 
