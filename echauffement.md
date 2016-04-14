@@ -1,6 +1,6 @@
 # Equation du second degrès
 
-Réaliser un simple programme realisant la fonction ax² + bx + c
+Réaliser un simple programme évaluant la fonction ax² + bx + c
 
 L'idée est que vous récupériez en entrée quatres paramètres (a,b,c,x) et appliquiez l'équation.
 
@@ -35,7 +35,7 @@ cat(resultat);
 
 ## - Exercices
 
-+ 1) **EQUA-1 - Réaliser un programme en R résolvant l'équation en fonction des paramètres mentionnés plus haut.**
++ 1) **EQUA-1 - Réaliser un programme en R évaluant l'équation en fonction des paramètres mentionnés plus haut.**
 
 Voici une amorce pour votre solution:
 
