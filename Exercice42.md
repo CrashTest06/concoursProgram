@@ -24,6 +24,19 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     2
     88
     ```
+## Entrée & sortie
+
++ **Entrées**
+  
+  ```R
+  flux=file("stdin","r")
+  suiteNombre=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+  ```
++ **Sortie**
+
+  ```R
+  cat(intToUtf8(mon_vecteur))
+  ```  
 
 ## PTEST - Question préliminaire
 
@@ -46,23 +59,6 @@ Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nom
 
 Écrivez le programme en R.
 
-### Conseils et éléments de code
-
-Pour récupérer la suite de nombres, employez ce bout de code:
-```R
-flux=file("stdin","r")
-suiteNombre=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-```
-À chaque itération, vous pouvez afficher sur la sortie standard à l'aide de `print` le nombre à afficher.
-```R
-while (length(suiteNombre) >= i)
-{
-...
-cat(suiteNombre[i]);
-cat(' ');
-...
-}
-```
 
 + **Exemple**
   + **Input**
