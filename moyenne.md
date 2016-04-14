@@ -71,9 +71,9 @@
 		
 			```R
    		9.500000
-			```
-			
- 	+ ***A vous de jouer avec cet input***
+   		```
+
+	+ ***A vous de jouer avec cet input***
  	
 		+ **Input**
 		
