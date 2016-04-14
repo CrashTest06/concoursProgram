@@ -10,11 +10,7 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
   + **Input**
   
     ```
-    1
-    2
-    88
-    42
-    99
+    1 2 88 42 99
     ```
 
   + **Output**
