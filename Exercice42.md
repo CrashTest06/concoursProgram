@@ -8,20 +8,22 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 + **Exemple**
 
   + **Input**
-  ```
-  1
-  2
-  88
-  42
-  99
-  ```
+  
+    ```
+    1
+    2
+    88
+    42
+    99
+    ```
 
   + **Output**
-  ```
-  1
-  2
-  88
-  ```
+  
+    ```
+    1
+    2
+    88
+    ```
 
 ## PTEST - Question préliminaire
 
