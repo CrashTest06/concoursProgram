@@ -27,56 +27,57 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
 
 ## Entrée & sortie
 
-	+ **Entrée**:
-	
-	    ```R
-	    # On recupere un tableau de caracteres en entrée
-	    stream <- file("stdin","r")
-	    n <- scan(file=stream, what=character(), n=1, quiet=TRUE)
-	    ```
-	+ **Sortie**:
-	
-	    ```R
-	    cat(vote_resultat)
-	    ```
++ **Entrée**:
 
-## - Exercice
+    ```R
+    # On recupere un tableau de caracteres en entrée
+    stream <- file("stdin","r")
+    n <- scan(file=stream, what=character(), n=1, quiet=TRUE)
+    ```
++ **Sortie**:
+
+    ```R
+    cat(vote_resultat)
+    ```
+
+## Exercice
 
 
 + **1) EPLUCHE1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
-##### Exemple
 
-    ###input
++ **Exemple**
 
-    ```R
-   1101112229
-    ```
-    ###code R    
-    ```R
-   cat(1531) 
-    ```
-    ###output
-    ```R
-   1531 
-    ```
-     ***A vous de jouer avec cet input:***
-     ###input
-    ```R
-   685415111
-    ```
+    + **Input**
+
+	    ```R
+	   1101112229
+	    ```
+    + **Code R**
+	    
+	    ```R
+	   cat(1531) 
+	    ```
+    + **Output**
+    
+	    ```R
+	   1531 
+	    ```
+	 
++ ***A vous de jouer avec cet input:***
+     + **Input**
+	    ```R
+	   685415111
+	    ```
  
 + **2) EPLUCHE2 - Ecrire le code R qui renvoie M à partir du N récupéré en entrée à partir du squelette suivant.**
 
 	```R
-    # On recupere un tableau de caracteres en entrée
-    stream <- file("stdin","r")
-    n <- scan(file=stream, what=character(), n=1, quiet=TRUE)
-  
+	# On recupere un tableau de caracteres en entrée
+	stream <- file("stdin","r")
+	n <- scan(file=stream, what=character(), n=1, quiet=TRUE)
 	#### CODE R
-   
 	#### Envoyer le resultat
 	cat("mon resultat")
-   
 	```
    
 + **3) EPLUCHE3 - Reprendre le code de la question 2, renvoyez M maintenant en excluant cette fois-ci le nombre d'occurence du chiffre 0.**
