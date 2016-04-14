@@ -45,30 +45,30 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
 
 + **1) EPLUCHE1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
 
-+ **Exemple**
-
-    + **Input**
-
-	    ```R
-	   1101112229
-	    ```
-    + **Code R**
+	+ **Exemple**
+	
+	    + **Input**
+	
+		    ```R
+		   1101112229
+		    ```
+	    + **Code R**
+		    
+		    ```R
+		   cat(1531) 
+		    ```
+	    + **Output**
 	    
-	    ```R
-	   cat(1531) 
-	    ```
-    + **Output**
-    
-	    ```R
-	   1531 
-	    ```
-	 
-+ ***A vous de jouer avec cet input***
-     + **Input**
-     
-	    ```R
-	   685415111
-	    ```
+		    ```R
+		   1531 
+		    ```
+		 
+	+ ***A vous de jouer avec cet input***
+	     + **Input**
+	     
+		    ```R
+		   685415111
+		    ```
  
 + **2) EPLUCHE2 - Ecrire le code R qui renvoie M à partir du N récupéré en entrée à partir du squelette suivant.**
 
@@ -83,15 +83,19 @@ Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 
    
 + **3) EPLUCHE3 - Reprendre le code de la question 2, renvoyez M maintenant en excluant cette fois-ci le nombre d'occurence du chiffre 0.**
 
-    ##### Exemple:
-    ###input
-    ```R	
-   1100011192229
-    ```
-    ###output
-    ```R
-   532 
-    ```
+    + **Exemple**
+    
+    	+ **Input**
+    	
+    		```R	
+	   	1100011192229
+	    	```
+	    
+	+ **Input**
+	
+		```R
+	    	532 
+	    	```
 
 
 
