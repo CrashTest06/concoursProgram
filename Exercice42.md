@@ -56,11 +56,22 @@ suiteNombre=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
 while (length(suiteNombre) >= i)
 {
 ...
-print(suiteNombre[i]); # exemple
+cat(suiteNombre[i]);
+cat(' ');
 ...
 }
 ```
 
+##Exemple:
+###- Input:
+  ```
+  1 2 88 42 99
+  ```
+###- Output:
+```
+  1 2 88 
+  # apres 88 il y a un espace !!
+  ```
 
 ## STEST - Sum of Life, the Universe, and Everything
 
@@ -71,22 +82,14 @@ Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombre
 #### Input
 
 ```
-1
-3
-5
-7
-1
-1
-40
-9
-8
+1 3 5 7 1 1 40 9 8
 ```
 
 #### Output
 
 ```
-1
-3
-5
-7
+1 3 5 7
+# apres 7 il y a un espace !!
 ```
+
+Utilisez le meme code pour récuperer la suite de nombres décrit au deuxieme exercice.
