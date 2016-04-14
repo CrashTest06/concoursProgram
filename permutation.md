@@ -62,7 +62,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 ## - Exercice
 
 
-+ **1) Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
++ **1) PERMUT-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
 ##### Exemple
 
     ###input
@@ -86,7 +86,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
    8 10 1 6 3 2 9 7 5 4
     ```
  
-+ **2) Permutation renversée:
++ **2) PERMUT-2 - Permutation renversée:
 	Pour commencer ecrivez un code R à partir du squelette suivant, qui vérifie si la liste L1 est la liste renversée de la liste L2 toute deux récupérées en entrée.
     Renvoyez ```TRUE``` ou ```FALSE```**
 
@@ -113,7 +113,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
     cat(res)
      ```
 
-+ **3) Permutation inversée:
++ **3)  PERMUT-3 - Permutation inversée:
 	 Ecrivez le code R à partir du squelette précédent, qui verifie si la liste L1 est la liste L2 par permutation inversée, les deux listes sont récupérées en entrée.
      Renvoyez ```TRUE``` ou ```FALSE```**
 
