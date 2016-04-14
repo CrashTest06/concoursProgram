@@ -4,13 +4,15 @@ Réaliser un simple programme évaluant la fonction ax² + bx + c
 
 L'idée est que vous récupériez en entrée quatres paramètres (a,b,c,x) et appliquiez l'équation.
 
-## - Exemple:
++ Exemple:
 
-input : ```x = 1 ; a = 2 ; b = 4 ; c = 6```
+  + input : 
+```1 2 4 6```
 
-output : ```14``` => (2 * 1)² + (4 * 1) + 6
+  + output : 
+  ```14``` => (2 * 1)² + (4 * 1) + 6
 
-## - Entrée & Sortie
+## Entrée & Sortie
 
 + *Entrée*
 
