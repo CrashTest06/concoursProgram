@@ -22,7 +22,7 @@ Le but de cet exercice est de manipuler ces occurences afin de former un nouveau
 		 431 
 		```
 		
-	Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 1, **trois** du chiffre 2 et **une** occurence de 9
+Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 1, **trois** du chiffre 2 et **une** occurence de 9
 
 
 
