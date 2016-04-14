@@ -1,9 +1,6 @@
-# Permutation Inverse
+# Permutation Ambigüe
  
-Il y a permutation inverse sur une liste L1 si pour chaque élement i de cette liste, se retrouve à la i-éme position de la liste L2 crée par cette permutation.
-Le but de cet exercice est de vérifier si une suite de nombre L1 est une permutation inverse d'une autre liste L2.
-
-
+**Une permutation inverse** d'un ensemble X est une bijection de X sur lui-même où chaque élement i de cette ensemble, se retrouve à la i-éme position du nouvel ensemble obtenue.
 
 + **Exemple**:
 
@@ -19,9 +16,35 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
      ```R
      TRUE
      ```
+     La première ligne représente la liste L1 et la deuxième la liste L2.
+     +	On peut observer que le premier élément de L1 est un **deux** d'indice **1**, on retouve donc à l'indice **2** de L2 l'élément **un**.
+     +	Le deuxième élément de L1 est un **trois** d'indice **2**, on retrouve donc à l'indice **3** de L2 l'élément **deux**.
+     +	Le troisième élément de L1 est un **quatre** d'indice **3**, on retrouve donc à l'indice **4** de L2 l'élément **trois**.
+     +	Le quatrième élément de L1 est un **cinq** d'indice **4**, on retrouve donc à l'indice **5** de L2 l'élément **quatre**.
+     +	Le cinquième élément de L1 est un **un** d'indice **5**, on retrouve donc à l'indice **1** de L2 l'élément **un**.
+
+Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un ensemble X et que l'ensemble X' obtenue est le même que l'ensemble de départ X.
+Le but de cet exercice est de vérifier si une suite de nombre L1 est une permutation ambigüe d'une autre liste L2.
+
+
+
++ **Exemple**:
+
+  + **Input**
+  
+     ```R
+     1 4 3 2 
+     1 4 3 2
+     ```
+    
+  + **Output**
+  
+     ```R
+     TRUE
+     ```
  
-*La ligne 1 correspond a la liste L1*
-*La ligne 2 correspond a la liste L2*
+	+	La liste L2 est la liste L1 obtenue par permutation inverse.
+	+	On observe que la liste L1 et L2 sont les mêmes donc il y a bien eu permutation ambigüe.
 
 
 
@@ -52,7 +75,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 + **Sortie**:
 
     ```R
-    # TRUE : si L1 est une permutation inverse de L2
+    # TRUE : si L1 est une permutation ambigüe de L2
     # FALSE sinon
     cat(votre_resultat) # TRUE ou FALSE
     ```
@@ -91,8 +114,8 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 			8 10 1 6 3 2 9 7 5 4
 			```
  
-+ **2) PERMUT-2 - Permutation renversée:
-	Pour commencer ecrivez un code R à partir du squelette suivant, qui vérifie si la liste L1 est la liste renversée de la liste L2 toute deux récupérées en entrée.
++ **2) PERMUT-2 - Permutation ambigüe I:
+	Ecrivez un code R, qui vérifie si la liste L2 est la liste obtenue par permutation ambigüe de L1, L1 et L2 toutes deux récupérées en entrée.
     Renvoyez ```TRUE``` ou ```FALSE```**
 
 	+ **Exemple**
@@ -100,8 +123,8 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 		+ **Input**
 		
 			```R
-			15 16 12 9 12 14
-    		14 12 9 12 16 15
+			1 2 3 5 4 6
+    		1 2 3 5 4 6
 			```
 
 		+ **Output**
@@ -111,8 +134,8 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 			 ```
 
 
-+ **3)  PERMUT-3 - Permutation inversée:
-	 Ecrivez le code R à partir du squelette précédent, qui verifie si la liste L1 est la liste L2 par permutation inversée, les deux listes sont récupérées en entrée.
++ **3)  PERMUT-3 - Permutation ambigüe II:
+	Maintenant on applique sur chaqun des éléments de L2 **```f(x) = 2 * x + 3```**, écrivez cette fois ci un code R, qui à partir des listes L1 et L2 récupérées entrée, vérifie si L2 avant application de f(x) est la liste obtenue par permutation ambigüe de L1.
      Renvoyez ```TRUE``` ou ```FALSE```**
 
 	+ **Exemple**
@@ -120,8 +143,8 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 		+ **Input**
 		
 			```R
-			2 3 4 5 1 
-   		5 1 2 3 4
+	       1 4 3 2 
+   	    5 11 9 7
 			```
 
 		+ **Output**
