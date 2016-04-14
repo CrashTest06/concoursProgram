@@ -70,9 +70,9 @@ cat(' ');
     ```
   + **Output**
   
-  ```
-    1 2 88 
-  ```
+    ```
+      1 2 88 
+    ```
   
   > **Apres le nombre 88 il y a un espace !!**
 
@@ -84,15 +84,15 @@ Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombre
 
   + **Input**
   
-  ```
-  1 3 5 7 1 1 40 9 8
-  ```
+    ```
+    1 3 5 7 1 1 40 9 8
+    ```
   
   + **Output**
   
-  ```
-  1 3 5 7
-  ```
+    ```
+    1 3 5 7
+    ```
 
 > **Apres le chiffre 7 il y a un espace !!**
 
