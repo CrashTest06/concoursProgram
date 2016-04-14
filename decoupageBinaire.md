@@ -55,7 +55,7 @@ output -> GOOD
              |<------8------>|<------8------>|<------8------>|<------8------>|
     input  -> 0 1 0 0 0 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0
                      71             79              79              68
-              intToUtf8(71)    intToUtf8(71)   intToUtf8(71)   intToUtf8(71)
+              intToUtf8(71)    intToUtf8(79)   intToUtf8(79)   intToUtf8(68)
     output ->        G               O               O               D
   ```
 
