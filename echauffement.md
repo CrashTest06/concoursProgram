@@ -7,10 +7,12 @@ L'idée est que vous récupériez en entrée quatres paramètres (a,b,c,x) et ap
 + **Exemple**:
 
   + **input** :
-```1 2 4 6```
+     
+    ```1 2 4 6```
 
   + **output** :
-  ```14``` => (2 * 1)² + (4 * 1) + 6
+  
+    ```14``` => (2 * 1)² + (4 * 1) + 6
 
 ## Entrée & Sortie
 
