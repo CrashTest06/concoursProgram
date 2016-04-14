@@ -3,7 +3,7 @@
 Ce problème demande la réalisation du produit de deux tableaux passés dans l'entrée standard:
 <br/>
 
-+ Exemple
++ **Exemple**
 
 ![Alt text](/ressources/exemple2MuxArray.PNG)
 
