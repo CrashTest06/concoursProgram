@@ -69,6 +69,20 @@ Attention les tableaux peuvent etre vides !**
 
 Vous afficherez le tableau contenant le resultat
 
+  + **Exemple**
+    + **Input**
+      
+      ```R
+      1 2 3 4
+      4 3 2 1
+      ```
+      
+    + **Output**
+      ```R
+      4 16
+      ```
+
+
 Attention , si un des tableaux est vide ,le programme doit **seulement** afficher ```VIDE```
 ```R
 cat("VIDE");
