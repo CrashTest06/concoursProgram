@@ -39,7 +39,8 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
 
 + **1) PTEST - Question préliminaire**
 
-  Soumettre un fichier texte contenant le résultat obtenu avec cette suite de nombres :
+  Sur une feuille , résolvez la questions
+  Vous soumettrez un programme R affichant , avec le code fourni dans la section **Sortie** , le résultat obtenu avec cette suite de nombres :
     ```
     1
     2
@@ -51,6 +52,15 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     9
     5
     3
+    ```
+    
+    Votre code aura cette allure:
+    
+    ```
+    cat(unNombre,'\n')
+    ...
+    ...
+    cat(unDernierNombre,'\n')
     ```
 
 
