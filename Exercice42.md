@@ -54,7 +54,7 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     3
     ```
     
-Le résultat affiché doit respecter le format attendu presenté dans la section **Output**
+Le résultat affiché doit respecter le format presenté dans la section **Output** , un nombre par ligne...
 
 
 + **2) TEST -  Life, the Universe, and Everything**
