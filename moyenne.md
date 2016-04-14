@@ -52,16 +52,17 @@
 ## Exercices
   
 + **1) MOY1 - Calculer à la main la moyenne pondérée. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
-  
-  + **Exemple**
+
+	+ **Exemple**
   	
 		+ **Input**
 			
-			```R
-		  12 15 6 4
-		  2 4 1 3
-			```
 			
+			```R
+		  	12 15 6 4
+			 2 4 1 3
+			```
+				
 		+ **Code R**
 		
 			```R
@@ -70,10 +71,10 @@
 		+ **Output**
 		
 			```R
-   		9.500000
-   		```
+	   		9.500000
+	   		```
 
-   + ***A vous de jouer avec cet input***
+	+ ***A vous de jouer avec cet input***
 	
 		
 		+ *Input**
