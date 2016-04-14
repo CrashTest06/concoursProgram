@@ -24,6 +24,7 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     2
     88
     ```
+
 ## Entrée & sortie
 
 + **Entrées**
