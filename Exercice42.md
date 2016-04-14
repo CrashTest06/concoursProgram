@@ -54,17 +54,7 @@ Tous les nombres sont des entiers écrits avec un ou deux chiffres.
     3
     ```
     
-    Votre code aura cette allure:
-    
-    ```
-    cat(unNombre,'\n')
-    ...
-    ...
-    cat(unNombre,'\n')
-    ...
-    ...
-    cat(unNombre,'\n')
-    ```
+Le résultat affiché doit respecter le format attendu presenté dans la section **Output**
 
 
 + **2) TEST -  Life, the Universe, and Everything**
