@@ -44,7 +44,7 @@
   
 ## - Exercices
   
-+ **1) Calculer à la main la moyenne pondérée. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
++ **MOY1 - 1) Calculer à la main la moyenne pondérée. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
   
   #### Exemple:
   #####input
@@ -67,7 +67,7 @@
    2 4 1 3
 	```
 
-+ **2) Pour commencer vous allez calculer la moyenne non pondérée:
++ **2) MOY2 -  Pour commencer vous allez calculer la moyenne non pondérée:
 	Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne non pondérée à partir de la liste de notes récupérée en entrée .**
   
     #### Exemple:
@@ -92,7 +92,7 @@
    
 	```
 
-+ **3) Calculez maintenant la moyenne pondérée: Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
++ **3) MOY3 -  Calculez maintenant la moyenne pondérée: Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
     
 ######Exemple
 
