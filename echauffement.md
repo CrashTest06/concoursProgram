@@ -14,7 +14,7 @@ L'idée est que vous récupériez en entrée quatres paramètres (a,b,c,x) et ap
 
 ## Entrée & Sortie
 
-+ *Entrée*
++ **Entrée**
 
 Pour récupérer les paramètres , employez ces lignes de code au debut de votre solution
 ```R
@@ -26,7 +26,7 @@ b <- listeParametres[3];
 c <- listeParametres[4];
 ```
 
-+ *Sortie*
++ **Sortie**
 
 Vous afficherez le résultat de votre solution avec l'instruction ``` cat ```
 ```R
