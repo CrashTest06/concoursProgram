@@ -7,37 +7,39 @@ Le but de cet exercice est de manipuler ces occurences afin de former un nouveau
   
   
   
-## - Exemple
+## Exemple
 
 
-###input
-```
- 21112129
-```
-###output
+	+ **Input**
+	
+		```
+		 21112129
+		```
+
+	+ **Output**
+	
+		```
+		 431 
+		```
+		
+	Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 1, **trois** du chiffre 2 et **une** occurence de 9
 
 
-```
- 431 
-```
-Dans cette exemple nous pouvons voir qu'il y a **quatre** occurences du chiffre 1, **trois** du chiffre 2 et **une** occurence de 9
 
+## Entrée & sortie
 
-
-## - Entrée & sortie
-
-+ **Entrée**:
-
-    ```R
-    # On recupere un tableau de caracteres en entrée
-    stream <- file("stdin","r")
-    n <- scan(file=stream, what=character(), n=1, quiet=TRUE)
-    ```
-+ **Sortie**:
-
-    ```R
-    cat(vote_resultat)
-    ```
+	+ **Entrée**:
+	
+	    ```R
+	    # On recupere un tableau de caracteres en entrée
+	    stream <- file("stdin","r")
+	    n <- scan(file=stream, what=character(), n=1, quiet=TRUE)
+	    ```
+	+ **Sortie**:
+	
+	    ```R
+	    cat(vote_resultat)
+	    ```
 
 ## - Exercice
 
