@@ -70,8 +70,9 @@ cat(' ');
 ###- Output:
 ```
   1 2 88 
-  # apres 88 il y a un espace !!
   ```
+  
+  > **Apres le nombre 88 il y a un espace !!**
 
 ## STEST - Sum of Life, the Universe, and Everything
 
@@ -91,6 +92,6 @@ Plus difficile, à présent on souhaite s'arrêter lorsque la somme des 3 nombre
 1 3 5 7
 ```
 
-> **apres 7 il y a un espace !!**
+> **Apres le chiffre 7 il y a un espace !!**
 
 Utilisez le meme code pour récuperer la suite de nombres décrit au deuxieme exercice.
