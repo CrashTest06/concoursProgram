@@ -1,4 +1,4 @@
-# Equation du second degrè
+# Equation du second degré
 
 Réaliser un simple programme évaluant la fonction ax² + bx + c
 
