@@ -43,13 +43,13 @@ On considere que les tableaux passés en parametre ne sont jamais vides et ont s
     + **Input**
       
       ```R
-      1 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1
-      6 13 19 26 32
+      1 2 3 4
+      4 3 2 1
       ```
       
     + **Output**
       ```R
-            (z*a)
+      1 4 9 16
       ```
 
 
