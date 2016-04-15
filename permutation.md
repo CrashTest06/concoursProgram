@@ -83,7 +83,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 ## - Exercice
 
 
-+ **1) PERMUT-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
++ **1) PERM-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
 	+ **Exemple**
 
 		+ **Input**
@@ -114,7 +114,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 			8 10 1 6 3 2 9 7 5 4
 			```
  
-+ **2) PERMUT-2 - Permutation ambigüe I:
++ **2) PERM-2 - Permutation ambigüe I:
 	Ecrivez un code R, qui vérifie si la liste L2 est la liste obtenue par permutation ambigüe de L1, L1 et L2 toutes deux récupérées en entrée.
     Renvoyez ```TRUE``` ou ```FALSE```**
 
@@ -134,7 +134,7 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 			 ```
 
 
-+ **3)  PERMUT-3 - Permutation ambigüe II:
++ **3)  PERM-3 - Permutation ambigüe II:
 	Maintenant on applique sur chaqun des éléments de L2 **```f(x) = 2 * x + 3```**, écrivez cette fois ci un code R, qui à partir des listes L1 et L2 récupérées entrée, vérifie si L2 avant application de f(x) est la liste obtenue par permutation ambigüe de L1.
      Renvoyez ```TRUE``` ou ```FALSE```**
 
