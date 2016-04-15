@@ -15,7 +15,7 @@
 	+ **Output**
 	
 		```R
- 		8
+ 		8.000
 		```
 
 ## Entrée & sortie
@@ -46,12 +46,14 @@
 + **Sortie**
 	
 	```R
-  cat(sprintf("%f",res));
+  cat(res);
   ```
+  **/!\ Le résultat doit être arrondi à 3 chiffres après la virgule (voir exemple)**
   
 ## Exercices
   
 + **1) MOY1 - Calculer à la main la moyenne pondérée. Envoyez le résultat avec un code R utilisant la fonction ```cat(arg)```**
+   **/!\ Le résultat doit être arrondi à 3 chiffres après la virgule (voir exemple)**
 
 	+ **Exemple**
   	
@@ -85,8 +87,9 @@
 			`````
 
 + **2) MOY2 -  Pour commencer vous allez calculer la moyenne non pondérée:
-	Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne non pondérée à partir de la liste de notes récupérée en entrée .**
-
+Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne non pondérée à partir de la liste de notes récupérée en entrée .**
+   **/!\ Le résultat doit être arrondi à 3 chiffres après la virgule (voir exemple)**
+   
   + **Exemple**
   	
 		+ **Input**
@@ -102,7 +105,9 @@
 			```
 
 
-+ **3) MOY3 -  Calculez maintenant la moyenne pondérée: Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
++ **3) MOY3 -  Calculez maintenant la moyenne pondérée: 
+Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondérée à partir de la liste de notes et de la liste des coefficients récupérées en entrée .**
+ **/!\ Le résultat doit être arrondi à 3 chiffres après la virgule (voir exemple)**
     
 	+ **Exemple**
 	
