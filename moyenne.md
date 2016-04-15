@@ -68,7 +68,7 @@
 		+ **Code R**
 		
 			```R
-			cat(sprintf("%f",9.5));
+			cat(9.5);
 			```
 		+ **Output**
 		
@@ -79,7 +79,7 @@
 	+ ***A vous de jouer avec cet input***
 	
 		
-		+ *Input**
+		+ **Input**
 		
 			```R
 			15 13 12 12
