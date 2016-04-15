@@ -73,7 +73,7 @@
 		+ **Output**
 		
 			```R
-	   		9.500000
+	   		9.500
 	   		```
 
 	+ ***A vous de jouer avec cet input***
@@ -101,7 +101,7 @@ Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne non po
 		+ **Output**
 		
 			```R
-   			10.000000
+   			10.000
 			```
 
 
@@ -120,6 +120,6 @@ Ecrire le code R en utilisant le squelette suivant qui renvoie la moyenne pondé
 		+ **Output**
 			
 			```R
-   			8.000000
+   			8.000
 			```
 
