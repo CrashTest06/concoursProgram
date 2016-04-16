@@ -40,16 +40,11 @@
 
 ## - Traitement des sorties avec R
 
-+ **Pour afficher votre résultat utilisez la fonction ```R cat(arg)``` et non la fonction ```R print(arg)```.**
-
-
-  ```R
-    res="test"
-    cat(res)
-  ```
++ **Pour afficher votre résultat utilisez la fonction ``` cat(arg)``` et non la fonction ``` print(arg)```.** ``` res="test" cat(res) ```
   
 + **Cas particulier de ```R intToUtf8 ```**
-  La fonction ```R intToUtf8 ``` affiche une string mal formaté dans la sortie standard si son résultat n'est pas affecté à une variable. Donc pour le [Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast") affichez votre résultat de la façon suivante:
+  La fonction ``` intToUtf8 ```affiche une string mal formaté dans la sortie standard si son résultat n'est pas affecté à une variable. Donc pour le [Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast") affichez votre résultat de la façon suivante:
+
   ```R
     res=intToUtf8(mon_vecteur)
     cat(res)
