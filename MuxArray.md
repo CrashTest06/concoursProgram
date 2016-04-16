@@ -33,6 +33,7 @@ cat(tableau_resultat)
 ![Alt text](/ressources/exempleExo1MuxArray.PNG) <br/>
 Envoyez un code R affichant simplement le contenu du résultat , vous ferez un cat en séparant chaque nombre par un espace:
 ```R
+# exemple
 cat("9 16 21 24 25 24");
 ```
 
