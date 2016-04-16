@@ -30,6 +30,8 @@
 
 
 + **Pour récuperer les deux tableaux du problème MuxArrray dans l'entrée standard:**
+
+
   ```R
   flux=file("stdin","r");
   tableau1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
@@ -39,10 +41,13 @@
 ## - Traitement des sorties avec R
 
 + **Pour afficher votre résultat utilisez la fonction ```R cat(arg)``` et non la fonction ```R print(arg)```.**
+
+
   ```R
     res="test"
     cat(res)
   ```
+  
 + **Cas particulier de ```R intToUtf8 ```**
   La fonction ```R intToUtf8 ``` affiche une string mal formaté dans la sortie standard si son résultat n'est pas affecté à une variable. Donc pour le [Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast") affichez votre résultat de la façon suivante:
   ```R
