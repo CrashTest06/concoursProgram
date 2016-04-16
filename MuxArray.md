@@ -39,7 +39,7 @@ cat("9 16 21 24 25 24");
 
 <br/><br/>
 + **2) MUXA2 - Ecrivez un algorithme en R prenant en entrée les deux tableaux , et affichant le résultat.
-On considere que les tableaux passés en parametre ne sont jamais vides et ont strictement la meme taille.**
+On considère que les tableaux passés en paramètre ne sont jamais vides et ont strictement la meme taille.**
 
   + **Exemple**
     + **Input**
@@ -57,16 +57,10 @@ On considere que les tableaux passés en parametre ne sont jamais vides et ont s
 > *aide*
 > - Deux tableaux de meme taille facilite la tache au niveau des indices
 
-Vous afficherez le tableau contenant le resultat de la maniere suivante : 
-```R
-cat(tableau_resultat);
-```
-
-Vous trouverez un fichier de test [sur ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/muxarrayexo2.in "test") , cliquez droit dessus et enregistrez la cible sur le dossier d'où vous travaillez votre solution.
 
 <br/><br/>
 + **3) MUXA3 - Plus dur , si vous avez reussi le 2 , on vous demandera d'afficher les élements pairs du tableau TableauRes.
-Attention les tableaux peuvent etre vides !**
+Attention les tableaux peuvent être vides !**
 
 Vous afficherez le tableau contenant le resultat
 
@@ -90,5 +84,3 @@ cat("VIDE");
 ```
 
 
-
-Vous trouverez un fichier de test [sur ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/muxarrayexo3.in "test") , cliquez droit dessus et enregistrez la cible sur le dossier d'où vous travaillez votre solution.
