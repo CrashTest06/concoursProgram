@@ -13,7 +13,7 @@ Nommé pc2team par ses concepteurs , cet outil vous permettra de soumettre vos p
 
 > **Comment lancer pc2team ?**
 
-> - Ouvrez un terminal et entrez ```my_pc2team.sh```
+> - Ouvrez un terminal et entrez ```pc2team.sh &```
 > - Une fenêtre vous invitera à entrez votre identifiant et votre mot de passe communiqués en début de séance.
 
 --------
@@ -29,9 +29,17 @@ Il est imprudent de soumettre une solution non testée , un guide décrit ci-des
 
 > **Comment tester ?**
 > 
-> -  Récupérez un fichier test proposé dans l'énoncé et déposez le sur votre bureau
-> - Ouvrez un terminal , et déplacez vous sur le répertoire où est posé votre solution exemple , si votre solution se trouve sur votre Bureau entrez ceci :  <br/>  ```cd ~/Bureau```
-> - Pour exécuter votre solution vous devez la rendre *executable* , entrez dans le terminal la commande suivante  : <br/> ```chmod +x nom_de_la_solution.R```
-> - Derniere étape , toujours sur le terminal , entrez la commande : ```Rscript nom_de_la_solution.R < nom_du_fichier_test.in```
+> -  Récupérez un fichier test ou créez en un , respectez le format des données en vous reférant aux exemples de l'énoncé. (un exemple de fichier de test vous est fourni à l'échauffement.
+> - le nom de votre fichier doit se terminer par un **.in** et non par un .txt !  ```nomDuFichierTest.in```
+> - Enfin depuis l'interface du logiciel selectionnez le problème que vous souhaitez tester , le langage (*R*) , ajouter le fichier.r que vous souhaitez tester
+> - Cliquez ensuite sur *Test* , vous serez invité à selectionner un fichier de test , validez la selection
+> - Le test s'opère , et vous obtiendrez une fenetre affichant le résultat retourné par votre programme.
 
 Voila , si vous avez tout suivi vous devriez voir sur le terminal le résultat de votre solution
+
+----------------
+Organisation de votre espace de travail
+==================
+
+#### <i class="icon-upload"></i> Classifier
+Nous vous recommandons de créer un dossier dédié au tp noté (sur votre bureau par exemple...) afin de perdre le moins de temps possible , et au sein de ce meme dossier , créer un dossier pour un probleme , vous aurez un espace de travail plus clair.
