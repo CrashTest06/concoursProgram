@@ -31,9 +31,9 @@ cat(tableau_resultat)
 + **1) MUXA1 - Faire sur feuille , le produit des deux tableaux suivants:**
 <br/><br/>
 ![Alt text](/ressources/exempleExo1MuxArray.PNG) <br/>
-Envoyer un code R affichant le contenu du résultat , sous le format imposé ci-dessous:
+Envoyez un code R affichant simplement le contenu du résultat , vous ferez un cat en séparant chaque nombre par un espace:
 ```R
-cat("4 6 12 36 78 28");
+cat("9 16 21 24 25 24");
 ```
 
 <br/><br/>
