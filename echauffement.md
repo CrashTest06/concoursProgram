@@ -43,3 +43,6 @@ cat(resultat);
 
 
 
+Vous trouverez un fichier de test [sur ce lien](https://github.com/GRnice/concoursProgram/blob/master/ressources/testEquation1.in "test1") , cliquez droit dessus et enregistrez la cible sur le dossier d'où vous travaillez votre solution.
+
+
