@@ -29,7 +29,7 @@
     ```R
     flux=file("stdin","r");
     suiteBinaire=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-    nombrePourDecouper=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
+    nombrePourDecouper=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
     ```
 + **Sortie**
 
