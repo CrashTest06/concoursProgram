@@ -12,7 +12,7 @@ L'idée est que vous récupériez en entrée quatres paramètres (a,b,c,x) et ap
 
   + **output** :
   
-    ```14``` => (2 * 1)² + (4 * 1) + 6
+    ```14``` => (2 * (1*1)) + (4 * 1) + 6
 
 ## Entrée & Sortie
 
