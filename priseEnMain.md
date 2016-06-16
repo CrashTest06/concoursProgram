@@ -19,7 +19,7 @@ Nommé pc2team par ses concepteurs , cet outil vous permettra de soumettre vos p
 --------
 #### <i class="icon-upload"></i> Soumettre une solution
 
-Depuis l'onglet **Submit run** sélectionnez le problème que vous souhaitez résoudre , puis le langage de votre solution ('**R**' ici) , cliquez ensuite sur **select** et sélectionnez le fichier contenant votre solution en **R**.
+Depuis l'onglet **Submit run** sélectionnez le problème que vous souhaitez résoudre puis le langage de votre solution ('**R**' ici) , cliquez ensuite sur **select** et sélectionnez le fichier contenant votre solution en **R**.
 Il ne vous restera plus que à cliquer sur **Submit**
 
 ---------
@@ -42,4 +42,4 @@ Organisation de votre espace de travail
 ==================
 
 #### <i class="icon-upload"></i> Classifier
- Afin de perdre le moins de temps possible nous vous recommandons de créer un dossier dédié au tp noté (sur votre bureau par exemple...), et au sein de ce meme dossier , créer un dossier pour chaque problème , vous aurez un espace de travail plus clair et hiérarchisé.
+ Afin de perdre le moins de temps possible nous vous recommandons de créer un dossier dédié au tp noté (sur votre bureau par exemple...), et au sein de ce meme dossier , créer un dossier pour chaque problème. Vous aurez un espace de travail plus clair et hiérarchisé.
