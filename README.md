@@ -26,7 +26,7 @@
   ```R
   quiet=TRUE
   ```
-  ***Si vous ne l'utiliser pas, votre résultat sera faussé.***
+  ***Si vous ne l'utilisez pas, votre résultat sera faussé.***
 
 
 + **Pour récuperer les deux tableaux du problème MuxArrray dans l'entrée standard:**
@@ -43,7 +43,7 @@
 + **Pour afficher votre résultat utilisez la fonction ``` cat(arg)``` et non la fonction ``` print(arg)```.** ``` res="test" cat(res) ```
   
 + **Cas particulier pour ``` intToUtf8 ```**
-  La fonction ``` intToUtf8 ```affiche une string mal formaté dans la sortie standard si son résultat n'est pas affecté à une variable. Donc pour le [Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast") affichez votre résultat de la façon suivante:
+  La fonction ``` intToUtf8 ```affiche une string mal formatée dans la sortie standard si son résultat n'est pas affecté à une variable. Donc pour le [Découpage binaire](https://github.com/GRnice/concoursProgram/blob/master/decoupageBinaire.md "SplitAndCast") affichez votre résultat de la façon suivante:
 
   ```R
     res=intToUtf8(mon_vecteur)
